@@ -70,16 +70,6 @@
     "zacetek_dela": "18. 9. 2025"
   },
   {
-    "vrsta_dela": "POMOČ PRI PRODAJI",
-    "naslov_oglasa": "Brez naslova",
-    "kraj": "MARIBOR",
-    "placilo": 7.1,
-    "prosta_mesta": "2",
-    "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
-    "delovnik": "IZMENSKO",
-    "zacetek_dela": "1. 9. 2025"
-  },
-  {
     "vrsta_dela": "INVENTURA",
     "naslov_oglasa": "Brez naslova",
     "kraj": "NOVO MESTO",
@@ -92,7 +82,7 @@
   {
     "vrsta_dela": "DELO V FARMACIJI",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA - ČRNUČE",
+    "kraj": "LJUBLJANA",
     "placilo": 7.15,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -222,7 +212,7 @@
   {
     "vrsta_dela": "POMOČ V STREŽBI",
     "naslov_oglasa": "POMIVALEC",
-    "kraj": "LJUBLJANA RUDNIK",
+    "kraj": "LJUBLJANA",
     "placilo": 7.0,
     "prosta_mesta": "3",
     "trajanje": "PO DOGOVORU",
@@ -282,7 +272,7 @@
   {
     "vrsta_dela": "RAZVOZ",
     "naslov_oglasa": "RAZVOZ HRANE",
-    "kraj": "LJUBLJANA CENTER",
+    "kraj": "LJUBLJANA",
     "placilo": 8.0,
     "prosta_mesta": "3",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -302,7 +292,7 @@
   {
     "vrsta_dela": "ADMINISTRATIVNA DELA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA ŠIŠKA",
+    "kraj": "LJUBLJANA",
     "placilo": 6.88,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -382,7 +372,7 @@
   {
     "vrsta_dela": "MIZARSKA DELA",
     "naslov_oglasa": "DELO NA TERENU",
-    "kraj": "PODGORA - PO TERENU",
+    "kraj": "PODGORA",
     "placilo": 7.88,
     "prosta_mesta": "Brez podatka",
     "trajanje": "PO DOGOVORU",
@@ -422,7 +412,7 @@
   {
     "vrsta_dela": "POMOČ PRI PRODAJI",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA CITYPARK",
+    "kraj": "LJUBLJANA",
     "placilo": 6.32,
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -442,7 +432,7 @@
   {
     "vrsta_dela": "STREŽBA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA - ZALOG",
+    "kraj": "LJUBLJANA",
     "placilo": 9.5,
     "prosta_mesta": "Brez podatka",
     "trajanje": "PO DOGOVORU",
@@ -452,7 +442,7 @@
   {
     "vrsta_dela": "POMOČ PRI PRODAJI",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA ALEJA",
+    "kraj": "LJUBLJANA",
     "placilo": 6.32,
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -462,7 +452,7 @@
   {
     "vrsta_dela": "DEGUSTACIJE",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA DRAVLJE",
+    "kraj": "LJUBLJANA",
     "placilo": 11.62,
     "prosta_mesta": "15",
     "trajanje": "PO DOGOVORU",
@@ -532,7 +522,7 @@
   {
     "vrsta_dela": "DELO V SKLADIŠČU",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA - VIČ",
+    "kraj": "LJUBLJANA",
     "placilo": 6.54,
     "prosta_mesta": "Brez podatka",
     "trajanje": "PO DOGOVORU",
@@ -552,7 +542,7 @@
   {
     "vrsta_dela": "PROMOCIJA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "MARIBOR, CELJE, KOROŠKA, PRIMORSKA",
+    "kraj": "MARIBOR",
     "placilo": 10.0,
     "prosta_mesta": "6",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -562,7 +552,7 @@
   {
     "vrsta_dela": "POUČEVANJE",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA ALI OD DOMA",
+    "kraj": "LJUBLJANA",
     "placilo": 11.0,
     "prosta_mesta": "3",
     "trajanje": "PO DOGOVORU",
@@ -572,7 +562,7 @@
   {
     "vrsta_dela": "DELO Z OTROKI",
     "naslov_oglasa": "TRENER/KA",
-    "kraj": "LJUBLJANA IN ŠIRŠA OKOLICA",
+    "kraj": "LJUBLJANA",
     "placilo": 12.5,
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -762,7 +752,7 @@
   {
     "vrsta_dela": "PRODAJA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA SUPERNOVA IN BTC HALA A",
+    "kraj": "LJUBLJANA",
     "placilo": 6.32,
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -822,7 +812,7 @@
   {
     "vrsta_dela": "PAKIRANJE",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA -BEŽIGRAD",
+    "kraj": "LJUBLJANA",
     "placilo": 9.0,
     "prosta_mesta": "3",
     "trajanje": "PO DOGOVORU",
@@ -912,7 +902,7 @@
   {
     "vrsta_dela": "POUČEVANJE",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LITIJA IN/ALI ŠMARTNO PRI LITIJI",
+    "kraj": "LITIJA",
     "placilo": 15.0,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -922,7 +912,7 @@
   {
     "vrsta_dela": "POUČEVANJE",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LITIJA IN/ALI ŠMARTNO PRI LITIJI",
+    "kraj": "LITIJA",
     "placilo": 9.0,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -992,7 +982,7 @@
   {
     "vrsta_dela": "BLAGAJNIK",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA CENTER",
+    "kraj": "LJUBLJANA",
     "placilo": 8.0,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -1002,7 +992,7 @@
   {
     "vrsta_dela": "DELO V KUHINJI",
     "naslov_oglasa": "POMIVALEC",
-    "kraj": "LJUBLJANA CENTER",
+    "kraj": "LJUBLJANA",
     "placilo": 8.0,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -1052,7 +1042,7 @@
   {
     "vrsta_dela": "POMOČ V STREŽBI",
     "naslov_oglasa": "DELO NA BLAGAJNI",
-    "kraj": "LJUBLJANA ŠIŠKA",
+    "kraj": "LJUBLJANA",
     "placilo": 9.47,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -1142,7 +1132,7 @@
   {
     "vrsta_dela": "STREŽBA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "GORENJE, ŠMARTNO OB PAKI",
+    "kraj": "GORENJE",
     "placilo": 6.5,
     "prosta_mesta": "3",
     "trajanje": "PO DOGOVORU",
@@ -1172,7 +1162,7 @@
   {
     "vrsta_dela": "LAŽJA FIZIČNA DELA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LATKOVA VAS, PREBOLD",
+    "kraj": "LATKOVA",
     "placilo": 7.0,
     "prosta_mesta": "4",
     "trajanje": "PO DOGOVORU",
@@ -1262,7 +1252,7 @@
   {
     "vrsta_dela": "STREŽBA HRANE IN PIJAČE",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA RUDNIK",
+    "kraj": "LJUBLJANA",
     "placilo": 10.0,
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -1380,16 +1370,6 @@
     "zacetek_dela": "Brez podatka"
   },
   {
-    "vrsta_dela": "PRODAJA",
-    "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA",
-    "placilo": 6.32,
-    "prosta_mesta": "Brez podatka",
-    "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
-    "delovnik": "DOPOLDAN",
-    "zacetek_dela": "8. 9. 2025"
-  },
-  {
     "vrsta_dela": "POMOČ PRI PRODAJI",
     "naslov_oglasa": "Brez naslova",
     "kraj": "LOGATEC",
@@ -1422,7 +1402,7 @@
   {
     "vrsta_dela": "VADITELJ/ICA",
     "naslov_oglasa": "DELO Z OTROKI",
-    "kraj": "VRANSKO, POLZELA, PREBOLD",
+    "kraj": "VRANSKO",
     "placilo": 12.5,
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -1500,16 +1480,6 @@
     "zacetek_dela": "1. 9. 2025"
   },
   {
-    "vrsta_dela": "POMOČ V STREŽBI",
-    "naslov_oglasa": "ANIMATOR/KA",
-    "kraj": "GROSUPLJE",
-    "placilo": 10.0,
-    "prosta_mesta": "2",
-    "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
-    "delovnik": "PO DOGOVORU",
-    "zacetek_dela": "15. 9. 2025"
-  },
-  {
     "vrsta_dela": "STREŽBA",
     "naslov_oglasa": "Brez naslova",
     "kraj": "POLENŠAK",
@@ -1562,7 +1532,7 @@
   {
     "vrsta_dela": "DELO V TISKARNI",
     "naslov_oglasa": "DELO V KNJIGOVEZNICI",
-    "kraj": "LJUBLJANA - ZALOG",
+    "kraj": "LJUBLJANA",
     "placilo": 7.5,
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -1622,7 +1592,7 @@
   {
     "vrsta_dela": "PROGRAMIRANJE",
     "naslov_oglasa": "RAZVIJANJE APLIKACIJ",
-    "kraj": "LJUBLJANA ČRNUČE",
+    "kraj": "LJUBLJANA",
     "placilo": 8.0,
     "prosta_mesta": "2",
     "trajanje": "PO DOGOVORU",
@@ -1662,7 +1632,7 @@
   {
     "vrsta_dela": "STREŽBA",
     "naslov_oglasa": "DELO NA RECEPCIJI IN V STREŽBI",
-    "kraj": "LJUBLJANA - CENTER",
+    "kraj": "LJUBLJANA",
     "placilo": 8.5,
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -1682,7 +1652,7 @@
   {
     "vrsta_dela": "DELO V SKLADIŠČU",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA ŠMARTNO",
+    "kraj": "LJUBLJANA",
     "placilo": 7.0,
     "prosta_mesta": "2",
     "trajanje": "PO DOGOVORU",
@@ -1702,7 +1672,7 @@
   {
     "vrsta_dela": "PRODAJA",
     "naslov_oglasa": "DELO V ZLATARNI",
-    "kraj": "LJUBLJANA ŠIŠKA",
+    "kraj": "LJUBLJANA",
     "placilo": 6.32,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -1762,7 +1732,7 @@
   {
     "vrsta_dela": "VADITELJ/ICA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA IN DOBROVA",
+    "kraj": "LJUBLJANA",
     "placilo": 12.0,
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -1772,7 +1742,7 @@
   {
     "vrsta_dela": "POMOČ V STREŽBI",
     "naslov_oglasa": "STREŽBA HRANE IN PIJAČE",
-    "kraj": "LJUBLJANA ŠIŠKA",
+    "kraj": "LJUBLJANA",
     "placilo": 8.0,
     "prosta_mesta": "3",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -1782,7 +1752,7 @@
   {
     "vrsta_dela": "FIZIČNA DELA",
     "naslov_oglasa": "MONTAŽA",
-    "kraj": "DRAGOMER, BREZOVICA PRI LJUBLJANI",
+    "kraj": "DRAGOMER",
     "placilo": 8.0,
     "prosta_mesta": "5",
     "trajanje": "PO DOGOVORU",
@@ -1792,7 +1762,7 @@
   {
     "vrsta_dela": "LAŽJA FIZIČNA DELA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA NOVE JARŠE",
+    "kraj": "LJUBLJANA",
     "placilo": 7.0,
     "prosta_mesta": "8",
     "trajanje": "DO 29. 9. 2025",
@@ -1812,7 +1782,7 @@
   {
     "vrsta_dela": "POUČEVANJE",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "RADOMLJE IN KAMNIK",
+    "kraj": "RADOMLJE",
     "placilo": 8.61,
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -1892,7 +1862,7 @@
   {
     "vrsta_dela": "DELO NA TERENU",
     "naslov_oglasa": "MONTAŽA",
-    "kraj": "LOGATEC IN PO SLOVENIJI",
+    "kraj": "LOGATEC",
     "placilo": 8.0,
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -1902,7 +1872,7 @@
   {
     "vrsta_dela": "POMOČ PRI PRODAJI",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LESCE, RADOVLJICA",
+    "kraj": "LESCE",
     "placilo": 6.32,
     "prosta_mesta": "Brez podatka",
     "trajanje": "PO DOGOVORU",
@@ -1932,7 +1902,7 @@
   {
     "vrsta_dela": "STREŽBA",
     "naslov_oglasa": "DELO V KAVARNI",
-    "kraj": "LJUBLJANA - ŠIŠKA",
+    "kraj": "LJUBLJANA",
     "placilo": 8.0,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -1962,7 +1932,7 @@
   {
     "vrsta_dela": "STREŽBA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA - CENTER",
+    "kraj": "LJUBLJANA",
     "placilo": 8.0,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -2002,7 +1972,7 @@
   {
     "vrsta_dela": "POMOČNIK VZGOJITELJA/VZGOJITELJICE",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA ŠENTVID",
+    "kraj": "LJUBLJANA",
     "placilo": 8.61,
     "prosta_mesta": "6",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -2012,7 +1982,7 @@
   {
     "vrsta_dela": "POUČEVANJE",
     "naslov_oglasa": "TEČAJ ANGLEŠČINE",
-    "kraj": "MARIBOR IN LENART",
+    "kraj": "MARIBOR",
     "placilo": 10.33,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -2102,22 +2072,12 @@
   {
     "vrsta_dela": "BLAGAJNIK",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA BTC",
+    "kraj": "LJUBLJANA",
     "placilo": 8.0,
     "prosta_mesta": "4",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
     "delovnik": "IZMENSKO",
     "zacetek_dela": "Brez podatka"
-  },
-  {
-    "vrsta_dela": "PROMOCIJA",
-    "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA, MEDVODE, PORTOROŽ",
-    "placilo": 8.5,
-    "prosta_mesta": "Brez podatka",
-    "trajanje": "3. 9., 4. 9. IN 26. 9. 2025",
-    "delovnik": "PO DOGOVORU",
-    "zacetek_dela": "3. 9. 2025"
   },
   {
     "vrsta_dela": "ADMINISTRATIVNA DELA",
@@ -2312,7 +2272,7 @@
   {
     "vrsta_dela": "MONTAŽA",
     "naslov_oglasa": "MONTAŽA MONTAŽNIH STEN",
-    "kraj": "LJUBLJANA S ŠIRŠKO OKOLICO",
+    "kraj": "LJUBLJANA",
     "placilo": 8.0,
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -2442,7 +2402,7 @@
   {
     "vrsta_dela": "BLAGAJNIK",
     "naslov_oglasa": "STREŽBA-PRODAJA",
-    "kraj": "LJUBLJANA RUDNIK",
+    "kraj": "LJUBLJANA",
     "placilo": 7.31,
     "prosta_mesta": "5",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -2592,7 +2552,7 @@
   {
     "vrsta_dela": "FIZIČNA DELA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA BTC",
+    "kraj": "LJUBLJANA",
     "placilo": 8.61,
     "prosta_mesta": "3",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -2622,7 +2582,7 @@
   {
     "vrsta_dela": "RAZVOZ",
     "naslov_oglasa": "NAKLADANJE/ RAZKLADANJE",
-    "kraj": "LJUBLJANA - PO SLOVENIJI",
+    "kraj": "LJUBLJANA",
     "placilo": 7.0,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -2752,7 +2712,7 @@
   {
     "vrsta_dela": "FIZIČNA DELA",
     "naslov_oglasa": "POMOČ PRI DOSTAVI",
-    "kraj": "LJUBLJANA - PO SLOVENIJI",
+    "kraj": "LJUBLJANA",
     "placilo": 9.0,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -2782,7 +2742,7 @@
   {
     "vrsta_dela": "POMOČ V KUHINJI",
     "naslov_oglasa": "POMIVALEC",
-    "kraj": "LJUBLJANA RUDNIK",
+    "kraj": "LJUBLJANA",
     "placilo": 6.32,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -2802,7 +2762,7 @@
   {
     "vrsta_dela": "STREŽBA HRANE IN PIJAČE",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA - ŠTEPANJSKO NASELJE",
+    "kraj": "LJUBLJANA",
     "placilo": 9.0,
     "prosta_mesta": "3",
     "trajanje": "PO DOGOVORU",
@@ -2962,7 +2922,7 @@
   {
     "vrsta_dela": "INVENTURA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA CENTER",
+    "kraj": "LJUBLJANA",
     "placilo": 6.32,
     "prosta_mesta": "15",
     "trajanje": "TOREK, 23. 9. 2025",
@@ -3022,7 +2982,7 @@
   {
     "vrsta_dela": "GRAFIČNO OBLIKOVANJE",
     "naslov_oglasa": "SPLETNO OBLIKOVANJE",
-    "kraj": "LJUBLJANA, DOGODKI, OD DOMA",
+    "kraj": "LJUBLJANA",
     "placilo": 8.0,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -3080,16 +3040,6 @@
     "zacetek_dela": "Brez podatka"
   },
   {
-    "vrsta_dela": "DELO Z OTROKI",
-    "naslov_oglasa": "MLADINSKE DELAVNICE",
-    "kraj": "LJUBLJANA",
-    "placilo": 8.0,
-    "prosta_mesta": "6",
-    "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
-    "delovnik": "POPOLDAN",
-    "zacetek_dela": "1. 9. 2025"
-  },
-  {
     "vrsta_dela": "DELO V LOTERIJI",
     "naslov_oglasa": "Brez naslova",
     "kraj": "CELJE",
@@ -3112,7 +3062,7 @@
   {
     "vrsta_dela": "DELO V SKLADIŠČU",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA - ŠMARTNO",
+    "kraj": "LJUBLJANA",
     "placilo": 7.0,
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -3122,7 +3072,7 @@
   {
     "vrsta_dela": "DELO V SKLADIŠČU",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA BTC",
+    "kraj": "LJUBLJANA",
     "placilo": 6.45,
     "prosta_mesta": "5",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -3272,7 +3222,7 @@
   {
     "vrsta_dela": "POMOČ V KUHINJI",
     "naslov_oglasa": "PRIPRAVA HRANE",
-    "kraj": "LJUBLJANA CENTER",
+    "kraj": "LJUBLJANA",
     "placilo": 8.17,
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -3302,7 +3252,7 @@
   {
     "vrsta_dela": "POMOČ V TRGOVINI",
     "naslov_oglasa": "BLAGAJNIK",
-    "kraj": "BTC LJUBLJANA",
+    "kraj": "BTC",
     "placilo": 9.0,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -3452,7 +3402,7 @@
   {
     "vrsta_dela": "STREŽBA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "MARIBOR IN LIMBUŠ",
+    "kraj": "MARIBOR",
     "placilo": 7.5,
     "prosta_mesta": "3",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -3572,7 +3522,7 @@
   {
     "vrsta_dela": "KLICNI CENTER",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA BTC",
+    "kraj": "LJUBLJANA",
     "placilo": 8.15,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -3602,7 +3552,7 @@
   {
     "vrsta_dela": "ORGANIZACIJSKA DELA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA IN OKOLICA",
+    "kraj": "LJUBLJANA",
     "placilo": 7.9,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -3632,7 +3582,7 @@
   {
     "vrsta_dela": "NASTOP",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA IN PO SLOVENIJI",
+    "kraj": "LJUBLJANA",
     "placilo": 10.8,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -3642,7 +3592,7 @@
   {
     "vrsta_dela": "ELEKTROTEHNIČNA DELA",
     "naslov_oglasa": "ELEKTROINŠTALACIJE",
-    "kraj": "IZOLA, KOPER",
+    "kraj": "IZOLA",
     "placilo": 8.6,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -3692,7 +3642,7 @@
   {
     "vrsta_dela": "STREŽBA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "KAMNIK - OBVOZNICA",
+    "kraj": "KAMNIK",
     "placilo": 9.0,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -3722,7 +3672,7 @@
   {
     "vrsta_dela": "RAZVOZ",
     "naslov_oglasa": "DOSTAVA HRANE",
-    "kraj": "LJUBLJANA BEŽIGRAD",
+    "kraj": "LJUBLJANA",
     "placilo": 7.8,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -3732,7 +3682,7 @@
   {
     "vrsta_dela": "POMOČ V STREŽBI",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA BEŽIGRAD",
+    "kraj": "LJUBLJANA",
     "placilo": 8.05,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -3762,7 +3712,7 @@
   {
     "vrsta_dela": "STREŽBA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA ŠTEPANJSKO NASELJE",
+    "kraj": "LJUBLJANA",
     "placilo": 8.0,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -3772,7 +3722,7 @@
   {
     "vrsta_dela": "SOBAR/ICA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "IZOLA - ISOLA D'ISTRIA",
+    "kraj": "IZOLA",
     "placilo": 8.0,
     "prosta_mesta": "2",
     "trajanje": "PO DOGOVORU",
@@ -3792,7 +3742,7 @@
   {
     "vrsta_dela": "POMOČ PRI PRODAJI",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA - RUDNIK",
+    "kraj": "LJUBLJANA",
     "placilo": 6.32,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -3862,7 +3812,7 @@
   {
     "vrsta_dela": "DELO NA RECEPCIJI",
     "naslov_oglasa": "STREŽBA",
-    "kraj": "LJUBLJANA CENTER",
+    "kraj": "LJUBLJANA",
     "placilo": 8.0,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -3942,7 +3892,7 @@
   {
     "vrsta_dela": "SOBAR/ICA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "ANKARAN, DEBELI RTIČ",
+    "kraj": "ANKARAN",
     "placilo": 6.32,
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -3992,7 +3942,7 @@
   {
     "vrsta_dela": "POMOČ V STREŽBI",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA - BEŽIGRAD",
+    "kraj": "LJUBLJANA",
     "placilo": 7.5,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -4002,7 +3952,7 @@
   {
     "vrsta_dela": "STREŽBA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA - BEŽIGRAD",
+    "kraj": "LJUBLJANA",
     "placilo": 9.5,
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -4012,7 +3962,7 @@
   {
     "vrsta_dela": "POMOČ PRI PRODAJI",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA RUDNIK",
+    "kraj": "LJUBLJANA",
     "placilo": 6.32,
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -4062,7 +4012,7 @@
   {
     "vrsta_dela": "TRENER/KA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LUKOVICA, DOMŽALE, MORAVČE",
+    "kraj": "LUKOVICA",
     "placilo": 12.0,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -4082,7 +4032,7 @@
   {
     "vrsta_dela": "POMOČ V STREŽBI",
     "naslov_oglasa": "PRODAJA SLADOLEDA",
-    "kraj": "LJUBLJANA CENTER",
+    "kraj": "LJUBLJANA",
     "placilo": 6.8,
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -4112,7 +4062,7 @@
   {
     "vrsta_dela": "DELO V LOGISTIKI",
     "naslov_oglasa": "DOSTAVA",
-    "kraj": "LOGATEC IN PO SLOVENIJI",
+    "kraj": "LOGATEC",
     "placilo": 7.14,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -4122,7 +4072,7 @@
   {
     "vrsta_dela": "POUČEVANJE",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "PTUJ, SLOVENSKA BISTRICA",
+    "kraj": "PTUJ",
     "placilo": 7.12,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -4132,7 +4082,7 @@
   {
     "vrsta_dela": "GRAFIČNO OBLIKOVANJE",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA OZ. OD DOMA",
+    "kraj": "LJUBLJANA",
     "placilo": 9.0,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -4242,7 +4192,7 @@
   {
     "vrsta_dela": "DELO Z OTROKI",
     "naslov_oglasa": "POUČEVANJE PLESA",
-    "kraj": "ROGAŠKA Z OKOLICO",
+    "kraj": "ROGAŠKA",
     "placilo": 11.0,
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -4282,7 +4232,7 @@
   {
     "vrsta_dela": "DELO NA TERENU",
     "naslov_oglasa": "KROVSKA DELA",
-    "kraj": "SELCA - GORENJSKA",
+    "kraj": "SELCA",
     "placilo": 10.5,
     "prosta_mesta": "2",
     "trajanje": "PO DOGOVORU",
@@ -4302,7 +4252,7 @@
   {
     "vrsta_dela": "STREŽBA HRANE IN PIJAČE",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA - CENTER",
+    "kraj": "LJUBLJANA",
     "placilo": 7.5,
     "prosta_mesta": "10",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -4322,7 +4272,7 @@
   {
     "vrsta_dela": "NASTOP",
     "naslov_oglasa": "DELO Z OTROKI",
-    "kraj": "LJUBLJANA RUDNIK",
+    "kraj": "LJUBLJANA",
     "placilo": 9.0,
     "prosta_mesta": "5",
     "trajanje": "PO DOGOVORU",
@@ -4392,7 +4342,7 @@
   {
     "vrsta_dela": "POMOČ V STREŽBI",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA - ŠMARTNO",
+    "kraj": "LJUBLJANA",
     "placilo": 10.0,
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -4402,7 +4352,7 @@
   {
     "vrsta_dela": "POMOČ V TRGOVINI",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA CENTER",
+    "kraj": "LJUBLJANA",
     "placilo": 7.0,
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -4422,7 +4372,7 @@
   {
     "vrsta_dela": "PROJEKTNO DELO",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA IN OD DOMA",
+    "kraj": "LJUBLJANA",
     "placilo": 7.0,
     "prosta_mesta": "Brez podatka",
     "trajanje": "PO DOGOVORU",
@@ -4510,16 +4460,6 @@
     "zacetek_dela": "Brez podatka"
   },
   {
-    "vrsta_dela": "POMOČ NA PODROČJU MARKETINGA",
-    "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA",
-    "placilo": 10.0,
-    "prosta_mesta": "Brez podatka",
-    "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
-    "delovnik": "DOPOLDAN",
-    "zacetek_dela": "1. 9. 2025"
-  },
-  {
     "vrsta_dela": "POMOČ V KUHINJI",
     "naslov_oglasa": "Brez naslova",
     "kraj": "LJUBLJANA",
@@ -4562,7 +4502,7 @@
   {
     "vrsta_dela": "BLAGAJNIK",
     "naslov_oglasa": "POLNJENJE POLIC IN BLAGAJNIK",
-    "kraj": "LJUBLJANA, ŠTEPANJSKO NASELJE",
+    "kraj": "LJUBLJANA",
     "placilo": 6.88,
     "prosta_mesta": "Brez podatka",
     "trajanje": "PO DOGOVORU",
@@ -4652,7 +4592,7 @@
   {
     "vrsta_dela": "PROJEKTIRANJE",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA Z OKOLICO",
+    "kraj": "LJUBLJANA",
     "placilo": 7.74,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -4692,7 +4632,7 @@
   {
     "vrsta_dela": "POMOČ PRI PRODAJI",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA CENTER",
+    "kraj": "LJUBLJANA",
     "placilo": 6.32,
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -4702,7 +4642,7 @@
   {
     "vrsta_dela": "DEKLARIRANJE",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA - ŠENTVID",
+    "kraj": "LJUBLJANA",
     "placilo": 6.5,
     "prosta_mesta": "4",
     "trajanje": "PO DOGOVORU",
@@ -4742,7 +4682,7 @@
   {
     "vrsta_dela": "DEKLARIRANJE",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA BTC",
+    "kraj": "LJUBLJANA",
     "placilo": 6.32,
     "prosta_mesta": "6",
     "trajanje": "PO DOGOVORU",
@@ -4802,7 +4742,7 @@
   {
     "vrsta_dela": "ASISTENT/KA",
     "naslov_oglasa": "POUČEVANJE RAČUNALNIŠTVA",
-    "kraj": "LJUBLJANA (IN PO TERENU)",
+    "kraj": "LJUBLJANA",
     "placilo": 7.75,
     "prosta_mesta": "2",
     "trajanje": "PO DOGOVORU",
@@ -4920,19 +4860,9 @@
     "zacetek_dela": "22. 9. 2025"
   },
   {
-    "vrsta_dela": "POMOČ PRI PRODAJI",
-    "naslov_oglasa": "Brez naslova",
-    "kraj": "MARIBOR",
-    "placilo": 7.74,
-    "prosta_mesta": "2",
-    "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
-    "delovnik": "POPOLDAN",
-    "zacetek_dela": "Brez podatka"
-  },
-  {
     "vrsta_dela": "STREŽBA HRANE IN PIJAČE",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA RUDNIK",
+    "kraj": "LJUBLJANA",
     "placilo": 9.0,
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -4952,7 +4882,7 @@
   {
     "vrsta_dela": "DELO V SKLADIŠČU",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA ŠENTVID",
+    "kraj": "LJUBLJANA",
     "placilo": 6.88,
     "prosta_mesta": "2",
     "trajanje": "CCA 1 MESEC",
@@ -4982,7 +4912,7 @@
   {
     "vrsta_dela": "PORTIR/KA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA CENTER",
+    "kraj": "LJUBLJANA",
     "placilo": 10.33,
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -5042,7 +4972,7 @@
   {
     "vrsta_dela": "DEKLARIRANJE",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA-ZALOG",
+    "kraj": "LJUBLJANA",
     "placilo": 6.32,
     "prosta_mesta": "4",
     "trajanje": "PO DOGOVORU",
@@ -5122,7 +5052,7 @@
   {
     "vrsta_dela": "POMOČ V TRGOVINI",
     "naslov_oglasa": "POLNJENJE POLIC",
-    "kraj": "LJUBLJANA RUDNIK",
+    "kraj": "LJUBLJANA",
     "placilo": 6.32,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -5142,7 +5072,7 @@
   {
     "vrsta_dela": "POLNJENJE POLIC",
     "naslov_oglasa": "POMOČ V TRGOVINI",
-    "kraj": "LUBLJANA - ŠIŠKA",
+    "kraj": "LUBLJANA",
     "placilo": 8.61,
     "prosta_mesta": "3",
     "trajanje": "PO DOGOVORU",
@@ -5192,7 +5122,7 @@
   {
     "vrsta_dela": "FIGURANT",
     "naslov_oglasa": "POMOČNIK/CA GEODETA",
-    "kraj": "LENDAVA IN MURSKA SOBOTA",
+    "kraj": "LENDAVA",
     "placilo": 8.15,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DO 15. 11. 2025",
@@ -5282,7 +5212,7 @@
   {
     "vrsta_dela": "BLAGAJNIK",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA RUDNIK",
+    "kraj": "LJUBLJANA",
     "placilo": 7.74,
     "prosta_mesta": "3",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -5292,7 +5222,7 @@
   {
     "vrsta_dela": "POSPEŠEVANJE PRODAJE",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "PESNICA PRI MARIBORU IN OD DOMA",
+    "kraj": "PESNICA",
     "placilo": 9.5,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -5312,7 +5242,7 @@
   {
     "vrsta_dela": "PROJEKTIRANJE",
     "naslov_oglasa": "KONTROLA KAKOVOSTI V GRADBENIŠTVU",
-    "kraj": "ŠEMPETER V SAVINJSKI DOLINI",
+    "kraj": "ŠEMPETER",
     "placilo": 8.5,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -5362,7 +5292,7 @@
   {
     "vrsta_dela": "PRODAJA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA RUDNIK",
+    "kraj": "LJUBLJANA",
     "placilo": 6.32,
     "prosta_mesta": "3",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -5522,7 +5452,7 @@
   {
     "vrsta_dela": "STREŽBA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA BTC",
+    "kraj": "LJUBLJANA",
     "placilo": 9.47,
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -5582,7 +5512,7 @@
   {
     "vrsta_dela": "PRODAJA",
     "naslov_oglasa": "TELEKOMUNIKACIJSKE STORITVE",
-    "kraj": "LJUBLJANA IN OKOLICA",
+    "kraj": "LJUBLJANA",
     "placilo": 18.0,
     "prosta_mesta": "3",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -5702,7 +5632,7 @@
   {
     "vrsta_dela": "DELO NA BENCINSKEM SERVISU",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA RUDNIK",
+    "kraj": "LJUBLJANA",
     "placilo": 9.0,
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -5812,7 +5742,7 @@
   {
     "vrsta_dela": "SERVISIRANJE RAČUNALNIŠKE OPREME",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA - LAVRICA",
+    "kraj": "LJUBLJANA",
     "placilo": 6.88,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -5842,7 +5772,7 @@
   {
     "vrsta_dela": "POUČEVANJE",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "KOPER (MARKOVEC)",
+    "kraj": "KOPER",
     "placilo": 10.0,
     "prosta_mesta": "4",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -5892,7 +5822,7 @@
   {
     "vrsta_dela": "ADMINISTRATIVNA DELA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA ČRNUČE",
+    "kraj": "LJUBLJANA",
     "placilo": 7.0,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -6232,7 +6162,7 @@
   {
     "vrsta_dela": "DELO NA RECEPCIJI",
     "naslov_oglasa": "DELO V FITNESU",
-    "kraj": "LJUBLJANA - ŠIŠKA",
+    "kraj": "LJUBLJANA",
     "placilo": 6.5,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -6242,7 +6172,7 @@
   {
     "vrsta_dela": "BLAGAJNIK",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA BEŽIGRAD",
+    "kraj": "LJUBLJANA",
     "placilo": 7.74,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -6282,7 +6212,7 @@
   {
     "vrsta_dela": "INFORMATOR/KA",
     "naslov_oglasa": "DELO NA INFO TOČKI",
-    "kraj": "LJUBLJANA ŠIŠKA",
+    "kraj": "LJUBLJANA",
     "placilo": 8.0,
     "prosta_mesta": "3",
     "trajanje": "PO DOGOVORU",
@@ -6312,7 +6242,7 @@
   {
     "vrsta_dela": "TEHNIČNA POMOČ",
     "naslov_oglasa": "POMOČ UPORABNIKOM",
-    "kraj": "LJUBLJANA ŠIŠKA",
+    "kraj": "LJUBLJANA",
     "placilo": 7.66,
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -6322,7 +6252,7 @@
   {
     "vrsta_dela": "DELO NA RECEPCIJI",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA ŠIŠKA",
+    "kraj": "LJUBLJANA",
     "placilo": 6.32,
     "prosta_mesta": "3",
     "trajanje": "PO DOGOVORU",
@@ -6372,7 +6302,7 @@
   {
     "vrsta_dela": "POMOČ PRI PRODAJI",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA BTC",
+    "kraj": "LJUBLJANA",
     "placilo": 6.45,
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -6682,7 +6612,7 @@
   {
     "vrsta_dela": "POMOČ PRI PRODAJI",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA RUDNIK",
+    "kraj": "LJUBLJANA",
     "placilo": 6.45,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -6702,7 +6632,7 @@
   {
     "vrsta_dela": "GRADBENA DELA",
     "naslov_oglasa": "UREJANJE OKOLICE",
-    "kraj": "LJUBLJANA IN TEREN",
+    "kraj": "LJUBLJANA",
     "placilo": 8.0,
     "prosta_mesta": "6",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -6802,7 +6732,7 @@
   {
     "vrsta_dela": "MENTOR/ICA",
     "naslov_oglasa": "VODENJE DELAVNICE",
-    "kraj": "KAMNIK, DOMŽALE",
+    "kraj": "KAMNIK",
     "placilo": 12.0,
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -6812,7 +6742,7 @@
   {
     "vrsta_dela": "MENTOR/ICA",
     "naslov_oglasa": "DELO Z OTROKI",
-    "kraj": "KAMNIK, DOMŽALE",
+    "kraj": "KAMNIK",
     "placilo": 12.0,
     "prosta_mesta": "3",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -6822,7 +6752,7 @@
   {
     "vrsta_dela": "MENTOR/ICA",
     "naslov_oglasa": "VODENJE DELAVNICE",
-    "kraj": "KAMNIK, DOMŽALE",
+    "kraj": "KAMNIK",
     "placilo": 12.0,
     "prosta_mesta": "5",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -6842,7 +6772,7 @@
   {
     "vrsta_dela": "INVENTURA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA - RUDNIK",
+    "kraj": "LJUBLJANA",
     "placilo": 6.32,
     "prosta_mesta": "10",
     "trajanje": "23. 9. 2025",
@@ -6852,7 +6782,7 @@
   {
     "vrsta_dela": "DELO NA RECEPCIJI",
     "naslov_oglasa": "STREŽBA",
-    "kraj": "LJUBLJANA RUDNIK",
+    "kraj": "LJUBLJANA",
     "placilo": 6.45,
     "prosta_mesta": "2",
     "trajanje": "PO DOGOVORU",
@@ -6872,7 +6802,7 @@
   {
     "vrsta_dela": "PAKIRANJE",
     "naslov_oglasa": "DELO V PROIZVODNJI",
-    "kraj": "LJUBLJANA  POLJE",
+    "kraj": "LJUBLJANA",
     "placilo": 7.57,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -6882,7 +6812,7 @@
   {
     "vrsta_dela": "DELO V PROIZVODNJI",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "ŠMARJE-SAP",
+    "kraj": "ŠMARJE",
     "placilo": 7.5,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -6972,7 +6902,7 @@
   {
     "vrsta_dela": "POMOČ V KUHINJI",
     "naslov_oglasa": "POMIVALEC",
-    "kraj": "LJUBLJANA BTC",
+    "kraj": "LJUBLJANA",
     "placilo": 8.0,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -7062,7 +6992,7 @@
   {
     "vrsta_dela": "POMOČ V TRGOVINI",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA ZALOG",
+    "kraj": "LJUBLJANA",
     "placilo": 9.47,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -7112,7 +7042,7 @@
   {
     "vrsta_dela": "POMOČ V STREŽBI",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "ARCLIN - VOJNIK",
+    "kraj": "ARCLIN",
     "placilo": 8.0,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -7162,7 +7092,7 @@
   {
     "vrsta_dela": "RAZVOZ",
     "naslov_oglasa": "DOSTAVA HRANE",
-    "kraj": "KRANJ IN OKOLICA",
+    "kraj": "KRANJ",
     "placilo": 7.0,
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -7212,7 +7142,7 @@
   {
     "vrsta_dela": "SOBAR/ICA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "BOHINJSKO JEZERO",
+    "kraj": "BOHINJSKO",
     "placilo": 7.5,
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -7222,7 +7152,7 @@
   {
     "vrsta_dela": "POUČEVANJE",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA IN ONLINE",
+    "kraj": "LJUBLJANA",
     "placilo": 10.58,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -7232,7 +7162,7 @@
   {
     "vrsta_dela": "POUČEVANJE",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA IN ONLINE",
+    "kraj": "LJUBLJANA",
     "placilo": 10.58,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -7242,7 +7172,7 @@
   {
     "vrsta_dela": "INVENTURA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA BTC",
+    "kraj": "LJUBLJANA",
     "placilo": 6.32,
     "prosta_mesta": "20",
     "trajanje": "SAMO 23. 9. 2025",
@@ -7272,7 +7202,7 @@
   {
     "vrsta_dela": "DELO NA TERENU",
     "naslov_oglasa": "VOZNIK SANITETNEGA VOZILA",
-    "kraj": "SLOVENIJA, TEREN",
+    "kraj": "SLOVENIJA",
     "placilo": 8.5,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -7330,16 +7260,6 @@
     "zacetek_dela": "Brez podatka"
   },
   {
-    "vrsta_dela": "DELO V SKLADIŠČU",
-    "naslov_oglasa": "Brez naslova",
-    "kraj": "VODICE",
-    "placilo": 7.74,
-    "prosta_mesta": "Brez podatka",
-    "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
-    "delovnik": "DOPOLDAN",
-    "zacetek_dela": "1. 9. 2025"
-  },
-  {
     "vrsta_dela": "RAZVOZ",
     "naslov_oglasa": "DELO V SKLADIŠČU",
     "kraj": "STRAŽA PRI NOVEM MESTU",
@@ -7352,7 +7272,7 @@
   {
     "vrsta_dela": "POMOČ V TRGOVINI",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA - CENTER",
+    "kraj": "LJUBLJANA",
     "placilo": 6.32,
     "prosta_mesta": "3",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -7397,16 +7317,6 @@
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
     "delovnik": "IZMENSKO",
-    "zacetek_dela": "Brez podatka"
-  },
-  {
-    "vrsta_dela": "ADMINISTRATIVNA DELA",
-    "naslov_oglasa": "UREJANJE SPLETNE STRANI",
-    "kraj": "LJUBLJANA",
-    "placilo": 7.66,
-    "prosta_mesta": "Brez podatka",
-    "trajanje": "EN MESEC, NAPREJ PO DOGOVORU",
-    "delovnik": "DOPOLDAN",
     "zacetek_dela": "Brez podatka"
   },
   {
@@ -7462,7 +7372,7 @@
   {
     "vrsta_dela": "POMOČ PRI PRODAJI",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA BTC",
+    "kraj": "LJUBLJANA",
     "placilo": 6.45,
     "prosta_mesta": "10",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -7472,7 +7382,7 @@
   {
     "vrsta_dela": "DELO Z OTROKI",
     "naslov_oglasa": "POUČEVANJE PLESA",
-    "kraj": "LJUBLJANA POLJE",
+    "kraj": "LJUBLJANA",
     "placilo": 8.81,
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -7532,7 +7442,7 @@
   {
     "vrsta_dela": "PRODAJA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA RUDNIK",
+    "kraj": "LJUBLJANA",
     "placilo": 7.0,
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -7542,7 +7452,7 @@
   {
     "vrsta_dela": "PRODAJA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA BTC",
+    "kraj": "LJUBLJANA",
     "placilo": 7.0,
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -7552,7 +7462,7 @@
   {
     "vrsta_dela": "DELO V TURIZMU",
     "naslov_oglasa": "DELO NA RECEPCIJI IN V STREŽBI",
-    "kraj": "LJUBLJANA ŠENTVID",
+    "kraj": "LJUBLJANA",
     "placilo": 8.11,
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -7622,7 +7532,7 @@
   {
     "vrsta_dela": "DELO V SKLADIŠČU",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA RUDNIK",
+    "kraj": "LJUBLJANA",
     "placilo": 7.23,
     "prosta_mesta": "3",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -7702,7 +7612,7 @@
   {
     "vrsta_dela": "STREŽBA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA ŠIŠKA",
+    "kraj": "LJUBLJANA",
     "placilo": 7.0,
     "prosta_mesta": "3",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -7722,7 +7632,7 @@
   {
     "vrsta_dela": "VADITELJ/ICA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "KAMNIK IN TRZIN",
+    "kraj": "KAMNIK",
     "placilo": 11.0,
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -7732,7 +7642,7 @@
   {
     "vrsta_dela": "POMOČ PRI PRODAJI",
     "naslov_oglasa": "PREVZEM BLAGA",
-    "kraj": "LJUBLJANA - CENTER",
+    "kraj": "LJUBLJANA",
     "placilo": 6.45,
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -7742,7 +7652,7 @@
   {
     "vrsta_dela": "DELO V ORDINACIJI",
     "naslov_oglasa": "POMOČ V ZOBOZDRAVSTVENI ORDINACIJI",
-    "kraj": "LJUBLJANA CENTER",
+    "kraj": "LJUBLJANA",
     "placilo": 6.45,
     "prosta_mesta": "Brez podatka",
     "trajanje": "PO DOGOVORU",
@@ -7782,7 +7692,7 @@
   {
     "vrsta_dela": "VADITELJ/ICA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA (ZALOG IN NOVE JARŠE)",
+    "kraj": "LJUBLJANA",
     "placilo": 11.0,
     "prosta_mesta": "3",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -7842,7 +7752,7 @@
   {
     "vrsta_dela": "STREŽBA HRANE IN PIJAČE",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA CENTER",
+    "kraj": "LJUBLJANA",
     "placilo": 7.2,
     "prosta_mesta": "2",
     "trajanje": "PO DOGOVORU",
@@ -7992,7 +7902,7 @@
   {
     "vrsta_dela": "PRODAJA",
     "naslov_oglasa": "POMOČ V TRGOVINI",
-    "kraj": "LJUBLJANA CENTER",
+    "kraj": "LJUBLJANA",
     "placilo": 7.0,
     "prosta_mesta": "5",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -8022,7 +7932,7 @@
   {
     "vrsta_dela": "FIZIČNA DELA",
     "naslov_oglasa": "KROVSKA DELA",
-    "kraj": "PTUJ Z OKOLICO",
+    "kraj": "PTUJ",
     "placilo": 12.91,
     "prosta_mesta": "3",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -8032,7 +7942,7 @@
   {
     "vrsta_dela": "VADITELJ/ICA",
     "naslov_oglasa": "POUČEVANJE PLESA",
-    "kraj": "LJUBLJANA, BREZOVICA",
+    "kraj": "LJUBLJANA",
     "placilo": 25.46,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -8112,7 +8022,7 @@
   {
     "vrsta_dela": "DELO V SKLADIŠČU",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA BTC",
+    "kraj": "LJUBLJANA",
     "placilo": 6.63,
     "prosta_mesta": "3",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -8122,7 +8032,7 @@
   {
     "vrsta_dela": "POMOČ PRI PRODAJI",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA BTC",
+    "kraj": "LJUBLJANA",
     "placilo": 6.88,
     "prosta_mesta": "3",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -8152,22 +8062,12 @@
   {
     "vrsta_dela": "POUČEVANJE",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "KOPER (MARKOVEC)",
+    "kraj": "KOPER",
     "placilo": 10.0,
     "prosta_mesta": "4",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
     "delovnik": "PO DOGOVORU",
     "zacetek_dela": "Brez podatka"
-  },
-  {
-    "vrsta_dela": "PROMOCIJA",
-    "naslov_oglasa": "POMOČ PRI PRODAJI",
-    "kraj": "LJUBLJANA",
-    "placilo": 8.61,
-    "prosta_mesta": "3",
-    "trajanje": "DO 30. 9. 2025",
-    "delovnik": "PO DOGOVORU",
-    "zacetek_dela": "1. 9. 2025"
   },
   {
     "vrsta_dela": "DELO V PROIZVODNJI",
@@ -8202,7 +8102,7 @@
   {
     "vrsta_dela": "INVENTURA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA ŠIŠKA",
+    "kraj": "LJUBLJANA",
     "placilo": 6.32,
     "prosta_mesta": "15",
     "trajanje": "23. 9. 2025",
@@ -8312,7 +8212,7 @@
   {
     "vrsta_dela": "MONTAŽA",
     "naslov_oglasa": "TEHNIČNI SODELAVEC",
-    "kraj": "LJUBLJANA - PO SLOVENIJI",
+    "kraj": "LJUBLJANA",
     "placilo": 10.0,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -8402,7 +8302,7 @@
   {
     "vrsta_dela": "DELO V FITNESU",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA - MOSTE",
+    "kraj": "LJUBLJANA",
     "placilo": 10.33,
     "prosta_mesta": "3",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -8412,7 +8312,7 @@
   {
     "vrsta_dela": "ANIMATOR/KA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA - MOSTE",
+    "kraj": "LJUBLJANA",
     "placilo": 8.61,
     "prosta_mesta": "5",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -8572,7 +8472,7 @@
   {
     "vrsta_dela": "DELO Z OTROKI",
     "naslov_oglasa": "BRANJE",
-    "kraj": "BREZOVICA IN/ALI DOBROVA",
+    "kraj": "BREZOVICA",
     "placilo": 20.96,
     "prosta_mesta": "2",
     "trajanje": "PO DOGOVORU",
@@ -8592,7 +8492,7 @@
   {
     "vrsta_dela": "DELO V AVTOPRALNICI",
     "naslov_oglasa": "DELO NA TERENU",
-    "kraj": "BRNIK IN LJUBLJANA",
+    "kraj": "BRNIK",
     "placilo": 9.0,
     "prosta_mesta": "4",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -8642,7 +8542,7 @@
   {
     "vrsta_dela": "PAKIRANJE",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "PORTOROŽ- LUCIJA",
+    "kraj": "PORTOROŽ",
     "placilo": 7.14,
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -8652,7 +8552,7 @@
   {
     "vrsta_dela": "POUČEVANJE",
     "naslov_oglasa": "MLADINSKE DELAVNICE",
-    "kraj": "LJUBLJANA IN DRUGOD PO CELI SLOVENIJI",
+    "kraj": "LJUBLJANA",
     "placilo": 8.0,
     "prosta_mesta": "30",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -8672,7 +8572,7 @@
   {
     "vrsta_dela": "PRODAJA",
     "naslov_oglasa": "PROMOCIJA",
-    "kraj": "LJUBLJANA RUDNIK/ŠIŠKA/BTC",
+    "kraj": "LJUBLJANA",
     "placilo": 7.0,
     "prosta_mesta": "3",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -8702,7 +8602,7 @@
   {
     "vrsta_dela": "POMOČ V STREŽBI",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA CENTER",
+    "kraj": "LJUBLJANA",
     "placilo": 8.0,
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -8752,7 +8652,7 @@
   {
     "vrsta_dela": "DELO V KUHINJI",
     "naslov_oglasa": "PRIPRAVA HRANE",
-    "kraj": "LJUBLJANA CENTER",
+    "kraj": "LJUBLJANA",
     "placilo": 7.5,
     "prosta_mesta": "3",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -8792,7 +8692,7 @@
   {
     "vrsta_dela": "DELO V KUHINJI",
     "naslov_oglasa": "PRIPRAVA HRANE",
-    "kraj": "LJUBLJANA CENTER",
+    "kraj": "LJUBLJANA",
     "placilo": 9.0,
     "prosta_mesta": "3",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -8842,7 +8742,7 @@
   {
     "vrsta_dela": "DELO V KUHINJI",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "ANKARAN (DEBELI RTIČ)",
+    "kraj": "ANKARAN",
     "placilo": 7.74,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DO 31. 8. 25",
@@ -8917,16 +8817,6 @@
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
     "delovnik": "IZMENSKO",
-    "zacetek_dela": "1. 9. 2025"
-  },
-  {
-    "vrsta_dela": "ADMINISTRATIVNA DELA",
-    "naslov_oglasa": "TEHNIČNA POMOČ",
-    "kraj": "LJUBLJANA",
-    "placilo": 6.7,
-    "prosta_mesta": "Brez podatka",
-    "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
-    "delovnik": "DOPOLDAN",
     "zacetek_dela": "1. 9. 2025"
   },
   {
@@ -9022,7 +8912,7 @@
   {
     "vrsta_dela": "MIZARSKA DELA",
     "naslov_oglasa": "POMOČ PRI MONTAŽI",
-    "kraj": "ŠMARTNO PRI LITIJI/PO TERENU",
+    "kraj": "ŠMARTNO",
     "placilo": 7.2,
     "prosta_mesta": "2",
     "trajanje": "PO DOGOVORU",
@@ -9032,7 +8922,7 @@
   {
     "vrsta_dela": "ADMINISTRATIVNA DELA",
     "naslov_oglasa": "BLAGAJNIŠKO POSLOVANJE",
-    "kraj": "LJUBLJANA - VIČ",
+    "kraj": "LJUBLJANA",
     "placilo": 7.0,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -9042,7 +8932,7 @@
   {
     "vrsta_dela": "DELO V ZDRAVSTVU",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA ČRNUČE",
+    "kraj": "LJUBLJANA",
     "placilo": 8.61,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -9112,7 +9002,7 @@
   {
     "vrsta_dela": "POUČEVANJE",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "KAMNIK IN DOMŽALE",
+    "kraj": "KAMNIK",
     "placilo": 14.6,
     "prosta_mesta": "Brez podatka",
     "trajanje": "PO DOGOVORU",
@@ -9162,7 +9052,7 @@
   {
     "vrsta_dela": "POMOČ PRI PRODAJI",
     "naslov_oglasa": "SVETOVANJE PRI PRODAJI",
-    "kraj": "LJUBLJANA BTC IN RUDNIK",
+    "kraj": "LJUBLJANA",
     "placilo": 6.32,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -9342,7 +9232,7 @@
   {
     "vrsta_dela": "VADITELJ/ICA",
     "naslov_oglasa": "POUČEVANJE PLESA",
-    "kraj": "CELJE IN OKOLICA",
+    "kraj": "CELJE",
     "placilo": 10.0,
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -9392,7 +9282,7 @@
   {
     "vrsta_dela": "DELO NA TERENU",
     "naslov_oglasa": "PREVOZ",
-    "kraj": "BRNIK - MARIBOR",
+    "kraj": "BRNIK",
     "placilo": 9.0,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -9412,7 +9302,7 @@
   {
     "vrsta_dela": "DELO V AVTOPRALNICI",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA RUDNIK",
+    "kraj": "LJUBLJANA",
     "placilo": 7.5,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -9452,7 +9342,7 @@
   {
     "vrsta_dela": "DELO V PROIZVODNJI",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA VIČ",
+    "kraj": "LJUBLJANA",
     "placilo": 7.0,
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -9472,7 +9362,7 @@
   {
     "vrsta_dela": "KOZMETIČNE STORITVE",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA POLJE",
+    "kraj": "LJUBLJANA",
     "placilo": 9.04,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -9512,7 +9402,7 @@
   {
     "vrsta_dela": "OBDELAVA IN ODPREMA SPLETNIH NAROČIL",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA - BEŽIGRAD",
+    "kraj": "LJUBLJANA",
     "placilo": 7.81,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -9522,7 +9412,7 @@
   {
     "vrsta_dela": "STREŽBA",
     "naslov_oglasa": "GOSTINSKA DELA",
-    "kraj": "LJUBLJANA BTC",
+    "kraj": "LJUBLJANA",
     "placilo": 8.0,
     "prosta_mesta": "3",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -9652,7 +9542,7 @@
   {
     "vrsta_dela": "STREŽBA",
     "naslov_oglasa": "DELO S STRANKAMI",
-    "kraj": "LJUBLJANA ŠENTVID",
+    "kraj": "LJUBLJANA",
     "placilo": 8.0,
     "prosta_mesta": "5",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -9722,7 +9612,7 @@
   {
     "vrsta_dela": "STREŽBA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA - CENTER",
+    "kraj": "LJUBLJANA",
     "placilo": 7.5,
     "prosta_mesta": "3",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -9732,7 +9622,7 @@
   {
     "vrsta_dela": "MASER/KA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LAZE V TUHINJU",
+    "kraj": "LAZE",
     "placilo": 7.74,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -9742,7 +9632,7 @@
   {
     "vrsta_dela": "UREDNIK SPLETNIH VSEBIN",
     "naslov_oglasa": "PREVAJANJE",
-    "kraj": "LJUBLJANA BTC",
+    "kraj": "LJUBLJANA",
     "placilo": 6.88,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -9822,7 +9712,7 @@
   {
     "vrsta_dela": "DELO Z OTROKI",
     "naslov_oglasa": "POUČEVANJE PLESA",
-    "kraj": "VELENJE / ŠOŠTANJ",
+    "kraj": "VELENJE",
     "placilo": 12.0,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -9832,7 +9722,7 @@
   {
     "vrsta_dela": "ADMINISTRATIVNA DELA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA IG",
+    "kraj": "LJUBLJANA",
     "placilo": 6.32,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -9862,7 +9752,7 @@
   {
     "vrsta_dela": "KURIR/KA",
     "naslov_oglasa": "LAŽJA FIZIČNA DELA IN DELO NA TERENU",
-    "kraj": "PTUJ - SLOVENIJA",
+    "kraj": "PTUJ",
     "placilo": 8.0,
     "prosta_mesta": "4",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -9872,7 +9762,7 @@
   {
     "vrsta_dela": "DELO Z OTROKI",
     "naslov_oglasa": "VODENJE KROŽKA",
-    "kraj": "VELENJE, CELJE",
+    "kraj": "VELENJE",
     "placilo": 20.0,
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -9942,7 +9832,7 @@
   {
     "vrsta_dela": "ANIMATOR/KA",
     "naslov_oglasa": "IGRANJE",
-    "kraj": "LJUBLJANA, CELOTNA SLOVNEIJA",
+    "kraj": "LJUBLJANA",
     "placilo": 6.5,
     "prosta_mesta": "20",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -9952,7 +9842,7 @@
   {
     "vrsta_dela": "DELO Z OTROKI",
     "naslov_oglasa": "MLADINSKE DELAVNICE",
-    "kraj": "LJUBLJANA, CELOTNA SLOVENIJA",
+    "kraj": "LJUBLJANA",
     "placilo": 6.5,
     "prosta_mesta": "20",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -9962,7 +9852,7 @@
   {
     "vrsta_dela": "VADITELJ/ICA",
     "naslov_oglasa": "DELO Z OTROKI",
-    "kraj": "MARIBOR Z OKOLICO",
+    "kraj": "MARIBOR",
     "placilo": 12.0,
     "prosta_mesta": "3",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -9972,7 +9862,7 @@
   {
     "vrsta_dela": "KOZMETIČNE STORITVE",
     "naslov_oglasa": "GELIRANJE NOHTOV",
-    "kraj": "LJUBLJANA ČRNUČE",
+    "kraj": "LJUBLJANA",
     "placilo": 10.0,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -9982,7 +9872,7 @@
   {
     "vrsta_dela": "ADMINISTRATIVNA DELA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA - ČRNUČE",
+    "kraj": "LJUBLJANA",
     "placilo": 8.0,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -9992,7 +9882,7 @@
   {
     "vrsta_dela": "UREDNIK SPLETNIH VSEBIN",
     "naslov_oglasa": "OPTIMIZACIJA",
-    "kraj": "LJUBLJANA - ČRNUČE",
+    "kraj": "LJUBLJANA",
     "placilo": 9.0,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -10042,7 +9932,7 @@
   {
     "vrsta_dela": "KLICNI CENTER",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA ČRNUČE",
+    "kraj": "LJUBLJANA",
     "placilo": 6.32,
     "prosta_mesta": "5",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -10142,7 +10032,7 @@
   {
     "vrsta_dela": "POUČEVANJE",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA - BREZOVICA - DOLGI MOST",
+    "kraj": "LJUBLJANA",
     "placilo": 12.91,
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -10162,7 +10052,7 @@
   {
     "vrsta_dela": "POMOČ V KUHINJI",
     "naslov_oglasa": "POMIVALEC",
-    "kraj": "LJUBLJANA CENTER",
+    "kraj": "LJUBLJANA",
     "placilo": 6.32,
     "prosta_mesta": "3",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -10212,7 +10102,7 @@
   {
     "vrsta_dela": "KOZMETIČNE STORITVE",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA - VIČ",
+    "kraj": "LJUBLJANA",
     "placilo": 11.19,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -10262,7 +10152,7 @@
   {
     "vrsta_dela": "DELO NA TERENU",
     "naslov_oglasa": "VOZNIK",
-    "kraj": "LJUBLJANA IN PO SLOVENIJI",
+    "kraj": "LJUBLJANA",
     "placilo": 6.32,
     "prosta_mesta": "15",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -10302,7 +10192,7 @@
   {
     "vrsta_dela": "POMOČ V KUHINJI",
     "naslov_oglasa": "PRIPRAVA HRANE",
-    "kraj": "LJUBLJANA-ŠIŠKA",
+    "kraj": "LJUBLJANA",
     "placilo": 8.5,
     "prosta_mesta": "4",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -10332,7 +10222,7 @@
   {
     "vrsta_dela": "PRODAJA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA - ŠENTVID",
+    "kraj": "LJUBLJANA",
     "placilo": 6.5,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -10382,7 +10272,7 @@
   {
     "vrsta_dela": "STREŽBA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "ROGAŠKA SLATINA",
+    "kraj": "ROGAŠKA",
     "placilo": 8.0,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -10582,7 +10472,7 @@
   {
     "vrsta_dela": "STROKOVNO DELO",
     "naslov_oglasa": "DELO V PISARNI",
-    "kraj": "LJUBLJANA BEŽIGRAD",
+    "kraj": "LJUBLJANA",
     "placilo": 7.0,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -10602,7 +10492,7 @@
   {
     "vrsta_dela": "DELO NA TERENU",
     "naslov_oglasa": "ASISTENT/KA VODIJ PROJEKTOV",
-    "kraj": "LJUBLJANA - PO SLOVENIJI",
+    "kraj": "LJUBLJANA",
     "placilo": 8.81,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -10612,7 +10502,7 @@
   {
     "vrsta_dela": "MERITVE",
     "naslov_oglasa": "DELO NA TERENU",
-    "kraj": "LJUBLJANA IN PO SLOVENIJI",
+    "kraj": "LJUBLJANA",
     "placilo": 8.15,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -10642,7 +10532,7 @@
   {
     "vrsta_dela": "DELO V TURIZMU",
     "naslov_oglasa": "INFORMATOR/KA - TIC",
-    "kraj": "SEŽANA, DUTOVLJE",
+    "kraj": "SEŽANA",
     "placilo": 6.32,
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -10682,7 +10572,7 @@
   {
     "vrsta_dela": "INŠTALACIJE",
     "naslov_oglasa": "IZVAJANJE INŠTALACIJ",
-    "kraj": "LJUBLJANA-OKOLICA",
+    "kraj": "LJUBLJANA",
     "placilo": 7.74,
     "prosta_mesta": "Brez podatka",
     "trajanje": "PO DOGOVORU",
@@ -10712,7 +10602,7 @@
   {
     "vrsta_dela": "KOZMETIČNE STORITVE",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA MOSTE",
+    "kraj": "LJUBLJANA",
     "placilo": 8.5,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -10762,7 +10652,7 @@
   {
     "vrsta_dela": "DELO V PROIZVODNJI",
     "naslov_oglasa": "DELO V SKLADIŠČU",
-    "kraj": "LJUBLJANA - DOBRUNJE",
+    "kraj": "LJUBLJANA",
     "placilo": 7.5,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -10792,7 +10682,7 @@
   {
     "vrsta_dela": "DELO NA TERENU",
     "naslov_oglasa": "ELEKTROINŠTALACIJE",
-    "kraj": "LITIJA, ŠMARTNO PRI LITIJI",
+    "kraj": "LITIJA",
     "placilo": 8.0,
     "prosta_mesta": "Brez podatka",
     "trajanje": "PO DOGOVORU",
@@ -10812,7 +10702,7 @@
   {
     "vrsta_dela": "DELO V KUHINJI",
     "naslov_oglasa": "ČIŠČENJE",
-    "kraj": "LJUBLJANA CENTER",
+    "kraj": "LJUBLJANA",
     "placilo": 7.0,
     "prosta_mesta": "Brez podatka",
     "trajanje": "PO DOGOVORU",
@@ -10892,7 +10782,7 @@
   {
     "vrsta_dela": "POMOČ V STREŽBI",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA CENTER",
+    "kraj": "LJUBLJANA",
     "placilo": 8.0,
     "prosta_mesta": "4",
     "trajanje": "PO DOGOVORU",
@@ -10942,7 +10832,7 @@
   {
     "vrsta_dela": "GRADBENA DELA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "TEPANJE IN SLOVENSKE KONJICE",
+    "kraj": "TEPANJE",
     "placilo": 6.5,
     "prosta_mesta": "Brez podatka",
     "trajanje": "POČITNIŠKO DELO",
@@ -10972,7 +10862,7 @@
   {
     "vrsta_dela": "POUČEVANJE",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA IN ONLINE",
+    "kraj": "LJUBLJANA",
     "placilo": 10.58,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -11042,7 +10932,7 @@
   {
     "vrsta_dela": "TRENER/KA",
     "naslov_oglasa": "VODENJE TRENINGA",
-    "kraj": "TRZIN, KOMENDA KAMNIK",
+    "kraj": "TRZIN",
     "placilo": 15.0,
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -11062,7 +10952,7 @@
   {
     "vrsta_dela": "DELO V DELAVNICI",
     "naslov_oglasa": "AVTOMEHANIK",
-    "kraj": "IMENO - PODČETRTEK",
+    "kraj": "IMENO",
     "placilo": 7.2,
     "prosta_mesta": "2",
     "trajanje": "PO DOGOVORU",
@@ -11082,7 +10972,7 @@
   {
     "vrsta_dela": "STREŽBA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA CENTER",
+    "kraj": "LJUBLJANA",
     "placilo": 7.5,
     "prosta_mesta": "5",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -11172,7 +11062,7 @@
   {
     "vrsta_dela": "MONTAŽA",
     "naslov_oglasa": "DELO NA TERENU",
-    "kraj": "RADOVLJICA Z OKOLICO",
+    "kraj": "RADOVLJICA",
     "placilo": 8.0,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -11222,7 +11112,7 @@
   {
     "vrsta_dela": "DELO V VELNESU",
     "naslov_oglasa": "SAVNA MOJSTER",
-    "kraj": "LJUBLJANA BTC",
+    "kraj": "LJUBLJANA",
     "placilo": 7.0,
     "prosta_mesta": "3",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -11242,7 +11132,7 @@
   {
     "vrsta_dela": "ČIŠČENJE",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "VIPAVA Z OKOLICO",
+    "kraj": "VIPAVA",
     "placilo": 7.34,
     "prosta_mesta": "2",
     "trajanje": "PO DOGOVORU",
@@ -11302,7 +11192,7 @@
   {
     "vrsta_dela": "VADITELJ/ICA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "ŠENTJUR IN OKOLICA",
+    "kraj": "ŠENTJUR",
     "placilo": 12.0,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -11612,7 +11502,7 @@
   {
     "vrsta_dela": "POMOČ PRI PRODAJI",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA CENTER",
+    "kraj": "LJUBLJANA",
     "placilo": 6.45,
     "prosta_mesta": "5",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -11702,7 +11592,7 @@
   {
     "vrsta_dela": "STREŽBA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA BEŽGRAD",
+    "kraj": "LJUBLJANA",
     "placilo": 6.5,
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -11852,7 +11742,7 @@
   {
     "vrsta_dela": "KOZMETIČNE STORITVE",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA - BTC",
+    "kraj": "LJUBLJANA",
     "placilo": 10.0,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -11872,7 +11762,7 @@
   {
     "vrsta_dela": "ČIŠČENJE",
     "naslov_oglasa": "DELO NA TERENU",
-    "kraj": "AJDOVŠČINA Z OKOLICO",
+    "kraj": "AJDOVŠČINA",
     "placilo": 7.34,
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -11992,7 +11882,7 @@
   {
     "vrsta_dela": "BLAGAJNIK",
     "naslov_oglasa": "DELO V KEMIČNI ČISTILNICI",
-    "kraj": "LJUBLJANA - CENTER",
+    "kraj": "LJUBLJANA",
     "placilo": 7.74,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -12002,7 +11892,7 @@
   {
     "vrsta_dela": "MARKETING",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "ŠENČUR/OD DOMA",
+    "kraj": "ŠENČUR",
     "placilo": 10.0,
     "prosta_mesta": "Brez podatka",
     "trajanje": "PO DOGOVORU",
@@ -12062,7 +11952,7 @@
   {
     "vrsta_dela": "POMOČ UPORABNIKOM",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA BEŽIGRAD",
+    "kraj": "LJUBLJANA",
     "placilo": 6.7,
     "prosta_mesta": "6",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -12092,7 +11982,7 @@
   {
     "vrsta_dela": "POLNJENJE POLIC",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "BLED IN BOHINJ",
+    "kraj": "BLED",
     "placilo": 9.47,
     "prosta_mesta": "15",
     "trajanje": "DO 31. 8. 2025",
@@ -12102,7 +11992,7 @@
   {
     "vrsta_dela": "POMOČ V STREŽBI",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA CENTER",
+    "kraj": "LJUBLJANA",
     "placilo": 8.0,
     "prosta_mesta": "8",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -12222,7 +12112,7 @@
   {
     "vrsta_dela": "DELO V KUHINJI",
     "naslov_oglasa": "STREŽBA HRANE IN PIJAČE",
-    "kraj": "LJUBLJANA - CENTER",
+    "kraj": "LJUBLJANA",
     "placilo": 7.12,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -12272,7 +12162,7 @@
   {
     "vrsta_dela": "DELO V KUHINJI",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "KOPER- BERTOKI",
+    "kraj": "KOPER",
     "placilo": 6.8,
     "prosta_mesta": "2",
     "trajanje": "PO DOGOVORU",
@@ -12362,7 +12252,7 @@
   {
     "vrsta_dela": "DELO V KUHINJI",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA BTC",
+    "kraj": "LJUBLJANA",
     "placilo": 7.5,
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -12422,7 +12312,7 @@
   {
     "vrsta_dela": "DELO NA TERENU",
     "naslov_oglasa": "PREVOZ",
-    "kraj": "BLED IN DRUGI KRAJI PO SLOVENIJI",
+    "kraj": "BLED",
     "placilo": 9.0,
     "prosta_mesta": "5",
     "trajanje": "PO DOGOVORU",
@@ -12442,7 +12332,7 @@
   {
     "vrsta_dela": "POMOČ V STREŽBI",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "MURSKA SOBOTA, BUČEČOVCI",
+    "kraj": "MURSKA",
     "placilo": 10.0,
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -12522,7 +12412,7 @@
   {
     "vrsta_dela": "PRODAJA",
     "naslov_oglasa": "POMOČ PRI PEKI",
-    "kraj": "LJUBLJANA CENTER",
+    "kraj": "LJUBLJANA",
     "placilo": 7.64,
     "prosta_mesta": "3",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -12552,7 +12442,7 @@
   {
     "vrsta_dela": "STREŽBA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA ŠENTVID",
+    "kraj": "LJUBLJANA",
     "placilo": 9.0,
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -12602,7 +12492,7 @@
   {
     "vrsta_dela": "KURIR/KA",
     "naslov_oglasa": "DOSTAVA",
-    "kraj": "LJUBLJANA VIČ",
+    "kraj": "LJUBLJANA",
     "placilo": 8.5,
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -12622,7 +12512,7 @@
   {
     "vrsta_dela": "DELO NA BENCINSKEM SERVISU",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "BOŠTANJ - SEVNICA",
+    "kraj": "BOŠTANJ",
     "placilo": 7.12,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -12642,7 +12532,7 @@
   {
     "vrsta_dela": "KOZMETIČNE STORITVE",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA - CENTER",
+    "kraj": "LJUBLJANA",
     "placilo": 10.33,
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -12692,7 +12582,7 @@
   {
     "vrsta_dela": "PRODAJA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA - BTC",
+    "kraj": "LJUBLJANA",
     "placilo": 6.88,
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -12712,7 +12602,7 @@
   {
     "vrsta_dela": "POMOČ V TRGOVINI",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "RATEČE- PLANICA",
+    "kraj": "RATEČE",
     "placilo": 8.0,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -12742,7 +12632,7 @@
   {
     "vrsta_dela": "STREŽBA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA - KOSEZE",
+    "kraj": "LJUBLJANA",
     "placilo": 8.0,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -12772,7 +12662,7 @@
   {
     "vrsta_dela": "ČIŠČENJE",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "FRANKOLOVO, NOVA CERKEV",
+    "kraj": "FRANKOLOVO",
     "placilo": 8.0,
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -12792,7 +12682,7 @@
   {
     "vrsta_dela": "POUČEVANJE",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "BLED IN RADOVLJICA",
+    "kraj": "BLED",
     "placilo": 14.0,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -12812,7 +12702,7 @@
   {
     "vrsta_dela": "STREŽBA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA RUDNIK",
+    "kraj": "LJUBLJANA",
     "placilo": 8.61,
     "prosta_mesta": "Brez podatka",
     "trajanje": "MED POČITNICAMI",
@@ -12852,7 +12742,7 @@
   {
     "vrsta_dela": "RAZVOZ",
     "naslov_oglasa": "RAZVOZ HRANE",
-    "kraj": "LJUBLJANA ŠIŠKA",
+    "kraj": "LJUBLJANA",
     "placilo": 7.0,
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -13112,7 +13002,7 @@
   {
     "vrsta_dela": "STREŽBA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA - ČRNUČE",
+    "kraj": "LJUBLJANA",
     "placilo": 9.0,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -13132,7 +13022,7 @@
   {
     "vrsta_dela": "STREŽBA HRANE IN PIJAČE",
     "naslov_oglasa": "DELO NA BLAGAJNI",
-    "kraj": "LJUBLJANA ŠIŠKA",
+    "kraj": "LJUBLJANA",
     "placilo": 8.61,
     "prosta_mesta": "2",
     "trajanje": "PO DOGOVORU",
@@ -13142,7 +13032,7 @@
   {
     "vrsta_dela": "POUČEVANJE",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA IN ONLINE",
+    "kraj": "LJUBLJANA",
     "placilo": 9.7,
     "prosta_mesta": "3",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -13172,7 +13062,7 @@
   {
     "vrsta_dela": "DELO NA TERENU",
     "naslov_oglasa": "GEODETSKE STORITVE",
-    "kraj": "SEŽANA, PRIMORSKA",
+    "kraj": "SEŽANA",
     "placilo": 6.76,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -13262,7 +13152,7 @@
   {
     "vrsta_dela": "PROMOCIJA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "MOZIRJE, ŠOŠTANJ, ŽALEC, VRANSKO",
+    "kraj": "MOZIRJE",
     "placilo": 15.0,
     "prosta_mesta": "5",
     "trajanje": "PO DOGOVORU",
@@ -13352,7 +13242,7 @@
   {
     "vrsta_dela": "VADITELJ/ICA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "KRANJ, ŠENČUR, CERKLJE, NAKLO, KRIŽE, VIŽMARJE",
+    "kraj": "KRANJ",
     "placilo": 10.33,
     "prosta_mesta": "3",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -13422,7 +13312,7 @@
   {
     "vrsta_dela": "ČIŠČENJE",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "MARIBOR, SLOVENSKA BISTRICA",
+    "kraj": "MARIBOR",
     "placilo": 7.12,
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -13582,7 +13472,7 @@
   {
     "vrsta_dela": "POMOČ UPORABNIKOM",
     "naslov_oglasa": "OSEBNA ASISTENCA",
-    "kraj": "LJUBLJANA - ŠIŠKA",
+    "kraj": "LJUBLJANA",
     "placilo": 7.41,
     "prosta_mesta": "Brez podatka",
     "trajanje": "PO DOGOVORU",
@@ -13722,7 +13612,7 @@
   {
     "vrsta_dela": "ZDRAVSTVENA NEGA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "MARIBOR Z OKOLICO",
+    "kraj": "MARIBOR",
     "placilo": 8.5,
     "prosta_mesta": "3",
     "trajanje": "POČITNIŠKO DELO",
@@ -13772,7 +13662,7 @@
   {
     "vrsta_dela": "STREŽBA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA VIČ",
+    "kraj": "LJUBLJANA",
     "placilo": 7.0,
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -13782,7 +13672,7 @@
   {
     "vrsta_dela": "ELEKTROTEHNIČNA DELA",
     "naslov_oglasa": "ELEKTROINŠTALACIJE",
-    "kraj": "KRANJ Z OKOLICO",
+    "kraj": "KRANJ",
     "placilo": 8.0,
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -13822,7 +13712,7 @@
   {
     "vrsta_dela": "STREŽBA HRANE IN PIJAČE",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA CENTER",
+    "kraj": "LJUBLJANA",
     "placilo": 8.5,
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -14022,7 +13912,7 @@
   {
     "vrsta_dela": "PAKIRANJE",
     "naslov_oglasa": "DELO V SKLADIŠČU",
-    "kraj": "LJUBLJANA ČRNUČE",
+    "kraj": "LJUBLJANA",
     "placilo": 7.0,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -14182,7 +14072,7 @@
   {
     "vrsta_dela": "STREŽBA HRANE IN PIJAČE",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA BTC",
+    "kraj": "LJUBLJANA",
     "placilo": 7.4,
     "prosta_mesta": "5",
     "trajanje": "PO DOGOVORU",
@@ -14252,7 +14142,7 @@
   {
     "vrsta_dela": "SPREMLJEVALEC/ SPREMLJEVALKA",
     "naslov_oglasa": "OSEBNA ASISTENCA",
-    "kraj": "DOLNJA BISTRICA, ČRENŠOVCI",
+    "kraj": "DOLNJA",
     "placilo": 6.32,
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -14472,7 +14362,7 @@
   {
     "vrsta_dela": "STREŽBA",
     "naslov_oglasa": "GOSTINSKA DELA",
-    "kraj": "LJUBLJANA TRNOVO",
+    "kraj": "LJUBLJANA",
     "placilo": 7.12,
     "prosta_mesta": "3",
     "trajanje": "PO DOGOVORU",
@@ -14572,7 +14462,7 @@
   {
     "vrsta_dela": "KOZMETIČNE STORITVE",
     "naslov_oglasa": "GELIRANJE NOHTOV",
-    "kraj": "BOHINJSKA BISTRICA",
+    "kraj": "BOHINJSKA",
     "placilo": 9.0,
     "prosta_mesta": "Brez podatka",
     "trajanje": "PO DOGOVORU",
@@ -14642,7 +14532,7 @@
   {
     "vrsta_dela": "STREŽBA HRANE IN PIJAČE",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA CENTER",
+    "kraj": "LJUBLJANA",
     "placilo": 9.0,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -14692,7 +14582,7 @@
   {
     "vrsta_dela": "PROGRAMIRANJE",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA ČRNUČE",
+    "kraj": "LJUBLJANA",
     "placilo": 10.7,
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -14772,7 +14662,7 @@
   {
     "vrsta_dela": "RAZVOZ",
     "naslov_oglasa": "DELO NA PLOVILU",
-    "kraj": "LJUBLJANA - CENTER - PRULE",
+    "kraj": "LJUBLJANA",
     "placilo": 9.0,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -14792,7 +14682,7 @@
   {
     "vrsta_dela": "STREŽBA HRANE IN PIJAČE",
     "naslov_oglasa": "PRODAJA VSTOPNIC",
-    "kraj": "LJUBLJANA CENTER",
+    "kraj": "LJUBLJANA",
     "placilo": 8.0,
     "prosta_mesta": "Brez podatka",
     "trajanje": "PO DOGOVORU",
@@ -14862,7 +14752,7 @@
   {
     "vrsta_dela": "STREŽBA HRANE IN PIJAČE",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBNO OB SAVINJI",
+    "kraj": "LJUBNO",
     "placilo": 10.0,
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -14972,7 +14862,7 @@
   {
     "vrsta_dela": "POMOČ PRI PRODAJI",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA BTC",
+    "kraj": "LJUBLJANA",
     "placilo": 6.45,
     "prosta_mesta": "3",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -15002,7 +14892,7 @@
   {
     "vrsta_dela": "STREŽBA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "VIDEM - DOBREPOLJE",
+    "kraj": "VIDEM",
     "placilo": 6.32,
     "prosta_mesta": "2",
     "trajanje": "POČITNIŠKO DELO",
@@ -15052,7 +14942,7 @@
   {
     "vrsta_dela": "POMOČ V KUHINJI",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA RUDNIK",
+    "kraj": "LJUBLJANA",
     "placilo": 7.4,
     "prosta_mesta": "10",
     "trajanje": "POČITNIŠKO DELO",
@@ -15342,7 +15232,7 @@
   {
     "vrsta_dela": "DELO V SKLADIŠČU",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA CENTER",
+    "kraj": "LJUBLJANA",
     "placilo": 6.45,
     "prosta_mesta": "10",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -15392,7 +15282,7 @@
   {
     "vrsta_dela": "TRŽENJE",
     "naslov_oglasa": "TELEKOMUNIKACIJSKE STORITVE",
-    "kraj": "LJUBLJANA IN ŠIRŠA OKOLICA",
+    "kraj": "LJUBLJANA",
     "placilo": 10.33,
     "prosta_mesta": "3",
     "trajanje": "PO DOGOVORU",
@@ -15452,7 +15342,7 @@
   {
     "vrsta_dela": "STREŽBA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA ŠIŠKA",
+    "kraj": "LJUBLJANA",
     "placilo": 6.32,
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -15572,7 +15462,7 @@
   {
     "vrsta_dela": "POMOČ V KUHINJI",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA ŠIŠKA",
+    "kraj": "LJUBLJANA",
     "placilo": 6.5,
     "prosta_mesta": "3",
     "trajanje": "PO DOGOVORU",
@@ -15582,7 +15472,7 @@
   {
     "vrsta_dela": "STREŽBA",
     "naslov_oglasa": "DELO V SLAŠČIČARNI",
-    "kraj": "LJUBLJANA ŠIŠKA",
+    "kraj": "LJUBLJANA",
     "placilo": 8.4,
     "prosta_mesta": "3",
     "trajanje": "PO DOGOVORU",
@@ -15612,7 +15502,7 @@
   {
     "vrsta_dela": "STREŽBA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA RUDNIK",
+    "kraj": "LJUBLJANA",
     "placilo": 7.6,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -15792,7 +15682,7 @@
   {
     "vrsta_dela": "STREŽBA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA CENTER",
+    "kraj": "LJUBLJANA",
     "placilo": 8.61,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -15862,7 +15752,7 @@
   {
     "vrsta_dela": "BLAGAJNIK",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA BEŽIGRAD",
+    "kraj": "LJUBLJANA",
     "placilo": 7.74,
     "prosta_mesta": "Brez podatka",
     "trajanje": "POČITNIŠKO DELO",
@@ -15932,7 +15822,7 @@
   {
     "vrsta_dela": "STREŽBA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA RUDNIK",
+    "kraj": "LJUBLJANA",
     "placilo": 7.4,
     "prosta_mesta": "4",
     "trajanje": "ČEZ POČITNICE",
@@ -15982,7 +15872,7 @@
   {
     "vrsta_dela": "TRŽENJE",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA IN PO SLOVENIJI",
+    "kraj": "LJUBLJANA",
     "placilo": 12.22,
     "prosta_mesta": "3",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -16252,7 +16142,7 @@
   {
     "vrsta_dela": "DELO NA RAČUNALNIKU",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA - ČRNUČE",
+    "kraj": "LJUBLJANA",
     "placilo": 6.32,
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -16322,7 +16212,7 @@
   {
     "vrsta_dela": "STREŽBA HRANE IN PIJAČE",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA RUDNIK",
+    "kraj": "LJUBLJANA",
     "placilo": 9.0,
     "prosta_mesta": "2",
     "trajanje": "POČITNIŠKO DELO",
@@ -16352,7 +16242,7 @@
   {
     "vrsta_dela": "PRODAJA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA BTC IN RUDNIK",
+    "kraj": "LJUBLJANA",
     "placilo": 7.0,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -16432,7 +16322,7 @@
   {
     "vrsta_dela": "POLNJENJE POLIC",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA Z OKOLICO",
+    "kraj": "LJUBLJANA",
     "placilo": 6.32,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -16512,7 +16402,7 @@
   {
     "vrsta_dela": "ČIŠČENJE",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA ČRNUČE",
+    "kraj": "LJUBLJANA",
     "placilo": 10.0,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -16522,7 +16412,7 @@
   {
     "vrsta_dela": "DELO V ZDRAVSTVU",
     "naslov_oglasa": "VOZNIK SANITETNEGA VOZILA",
-    "kraj": "MARIBOR Z OKOLICO",
+    "kraj": "MARIBOR",
     "placilo": 9.0,
     "prosta_mesta": "3",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -16552,7 +16442,7 @@
   {
     "vrsta_dela": "LAŽJA FIZIČNA DELA",
     "naslov_oglasa": "KOMISIONIRANJE",
-    "kraj": "LJUBLJANA ŠENTVID",
+    "kraj": "LJUBLJANA",
     "placilo": 7.0,
     "prosta_mesta": "4",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -16612,7 +16502,7 @@
   {
     "vrsta_dela": "POMOČ V STREŽBI",
     "naslov_oglasa": "DELO V KAVARNI",
-    "kraj": "LJUBLJANA RUDNIK",
+    "kraj": "LJUBLJANA",
     "placilo": 8.5,
     "prosta_mesta": "Brez podatka",
     "trajanje": "PO DOGOVORU",
@@ -16802,7 +16692,7 @@
   {
     "vrsta_dela": "VARSTVO",
     "naslov_oglasa": "DELO Z OSEBAMI S POSEBNIMI POTREBAMI",
-    "kraj": "LJUBLJANA ŠKOFLJICA",
+    "kraj": "LJUBLJANA",
     "placilo": 7.74,
     "prosta_mesta": "Brez podatka",
     "trajanje": "PO DOGOVORU",
@@ -16962,7 +16852,7 @@
   {
     "vrsta_dela": "STREŽBA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA DOBRUNJE",
+    "kraj": "LJUBLJANA",
     "placilo": 8.15,
     "prosta_mesta": "3",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -17042,7 +16932,7 @@
   {
     "vrsta_dela": "IZDELAVA IN UREJANJE SPLETNE STRANI",
     "naslov_oglasa": "IZDELAVA IN VZDRŽEVANJE SPLETNE STRANI",
-    "kraj": "VELENJE/OD DOMA",
+    "kraj": "VELENJE",
     "placilo": 8.5,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -17082,7 +16972,7 @@
   {
     "vrsta_dela": "KOZMETIČNE STORITVE",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA RUDNIK",
+    "kraj": "LJUBLJANA",
     "placilo": 8.0,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -17212,7 +17102,7 @@
   {
     "vrsta_dela": "STREŽBA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA TRNOVO",
+    "kraj": "LJUBLJANA",
     "placilo": 8.0,
     "prosta_mesta": "2",
     "trajanje": "PO DOGOVORU",
@@ -17232,7 +17122,7 @@
   {
     "vrsta_dela": "STREŽBA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA CENTER",
+    "kraj": "LJUBLJANA",
     "placilo": 9.0,
     "prosta_mesta": "3",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -17302,7 +17192,7 @@
   {
     "vrsta_dela": "ANIMATOR/KA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA - RUDNIK",
+    "kraj": "LJUBLJANA",
     "placilo": 7.0,
     "prosta_mesta": "15",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -17352,7 +17242,7 @@
   {
     "vrsta_dela": "POMOČ V KUHINJI",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA - CENTER",
+    "kraj": "LJUBLJANA",
     "placilo": 7.0,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -17362,7 +17252,7 @@
   {
     "vrsta_dela": "STREŽBA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "KAMNIK - DUPLICA",
+    "kraj": "KAMNIK",
     "placilo": 7.0,
     "prosta_mesta": "2",
     "trajanje": "PO DOGOVORU",
@@ -17382,7 +17272,7 @@
   {
     "vrsta_dela": "POMOČ V STREŽBI",
     "naslov_oglasa": "POMOČ V KUHINJI",
-    "kraj": "BOHINJSKO JEZERO",
+    "kraj": "BOHINJSKO",
     "placilo": 8.5,
     "prosta_mesta": "Brez podatka",
     "trajanje": "PO DOGOVORU",
@@ -17392,7 +17282,7 @@
   {
     "vrsta_dela": "STREŽBA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA IG",
+    "kraj": "LJUBLJANA",
     "placilo": 6.62,
     "prosta_mesta": "4",
     "trajanje": "PO DOGOVORU",
@@ -17432,7 +17322,7 @@
   {
     "vrsta_dela": "RAČUNOVODSKA DELA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA ALI OD DOMA",
+    "kraj": "LJUBLJANA",
     "placilo": 7.31,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -17592,7 +17482,7 @@
   {
     "vrsta_dela": "PORTIR/KA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA CENTER",
+    "kraj": "LJUBLJANA",
     "placilo": 8.0,
     "prosta_mesta": "Brez podatka",
     "trajanje": "PO DOGOVORU",
@@ -17742,7 +17632,7 @@
   {
     "vrsta_dela": "DELO NA TERENU",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA IN OSTALI KRAJI PO SLOVENIJI",
+    "kraj": "LJUBLJANA",
     "placilo": 8.66,
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -17762,7 +17652,7 @@
   {
     "vrsta_dela": "POMOČ V STREŽBI",
     "naslov_oglasa": "DELO NA BLAGAJNI",
-    "kraj": "LJUBLJANA - CENTER",
+    "kraj": "LJUBLJANA",
     "placilo": 8.0,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -17852,7 +17742,7 @@
   {
     "vrsta_dela": "STREŽBA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "BOHINJSKA BELA",
+    "kraj": "BOHINJSKA",
     "placilo": 9.5,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -17972,7 +17862,7 @@
   {
     "vrsta_dela": "PROMOCIJA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "KRŠKO, SEVNICA",
+    "kraj": "KRŠKO",
     "placilo": 15.0,
     "prosta_mesta": "5",
     "trajanje": "PO DOGOVORU",
@@ -18012,7 +17902,7 @@
   {
     "vrsta_dela": "PROMOCIJA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "NOVO MESTO, TREBNJE",
+    "kraj": "NOVO",
     "placilo": 15.0,
     "prosta_mesta": "5",
     "trajanje": "PO DOGOVORU",
@@ -18082,7 +17972,7 @@
   {
     "vrsta_dela": "STREŽBA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "KOPER - OGRLICA",
+    "kraj": "KOPER",
     "placilo": 7.21,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -18332,7 +18222,7 @@
   {
     "vrsta_dela": "PAKIRANJE",
     "naslov_oglasa": "PROCESIRANJE SPLETNIH NAROČIL",
-    "kraj": "LJUBLJANA - BEŽIGRAD",
+    "kraj": "LJUBLJANA",
     "placilo": 6.88,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -18412,7 +18302,7 @@
   {
     "vrsta_dela": "STREŽBA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA - BROD",
+    "kraj": "LJUBLJANA",
     "placilo": 8.0,
     "prosta_mesta": "6",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -18462,7 +18352,7 @@
   {
     "vrsta_dela": "PROGRAMIRANJE",
     "naslov_oglasa": "BACK-END PROGRAMER",
-    "kraj": "LJUBLJANA ALI OD DOMA",
+    "kraj": "LJUBLJANA",
     "placilo": 15.27,
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -18472,7 +18362,7 @@
   {
     "vrsta_dela": "STREŽBA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "KAMNIK - PODGORJE",
+    "kraj": "KAMNIK",
     "placilo": 7.74,
     "prosta_mesta": "3",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -18532,7 +18422,7 @@
   {
     "vrsta_dela": "SNEMANJE IN UREJANJE KRATKIH VIDEOV",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA ČRNUČE",
+    "kraj": "LJUBLJANA",
     "placilo": 7.5,
     "prosta_mesta": "3",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -18572,7 +18462,7 @@
   {
     "vrsta_dela": "POMOČ V TRGOVINI",
     "naslov_oglasa": "BLAGAJNIK",
-    "kraj": "LJUBLJANA IG",
+    "kraj": "LJUBLJANA",
     "placilo": 7.1,
     "prosta_mesta": "Brez podatka",
     "trajanje": "PO DOGOVORU",
@@ -18602,7 +18492,7 @@
   {
     "vrsta_dela": "DELO NA TERENU",
     "naslov_oglasa": "POMOČ PRI BARVANJU CEST",
-    "kraj": "MENGEŠ IN PO SLOVENIJI",
+    "kraj": "MENGEŠ",
     "placilo": 8.0,
     "prosta_mesta": "3",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -18612,7 +18502,7 @@
   {
     "vrsta_dela": "PRODAJA",
     "naslov_oglasa": "TELEKOMUNIKACIJSKE STORITVE",
-    "kraj": "LJUBLJANA / PO SLOVENIJI",
+    "kraj": "LJUBLJANA",
     "placilo": 16.0,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -18632,7 +18522,7 @@
   {
     "vrsta_dela": "ELEKTROTEHNIČNA DELA",
     "naslov_oglasa": "ELEKTROINŠTALACIJE",
-    "kraj": "LJUBLJANA Z OKOLICO",
+    "kraj": "LJUBLJANA",
     "placilo": 7.92,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -18662,7 +18552,7 @@
   {
     "vrsta_dela": "DELO NA STOJNICI",
     "naslov_oglasa": "PRIPRAVA HRANE",
-    "kraj": "LJUBLJANA CENTER",
+    "kraj": "LJUBLJANA",
     "placilo": 8.0,
     "prosta_mesta": "3",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -18672,7 +18562,7 @@
   {
     "vrsta_dela": "STREŽBA HRANE IN PIJAČE",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA ŠENTJAKOB",
+    "kraj": "LJUBLJANA",
     "placilo": 8.0,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -18712,7 +18602,7 @@
   {
     "vrsta_dela": "ANIMATOR/KA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LAZE V TUHINJU",
+    "kraj": "LAZE",
     "placilo": 7.06,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -18732,7 +18622,7 @@
   {
     "vrsta_dela": "STREŽBA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA ČRNUČE",
+    "kraj": "LJUBLJANA",
     "placilo": 8.0,
     "prosta_mesta": "3",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -18752,7 +18642,7 @@
   {
     "vrsta_dela": "DELO NA RAČUNALNIKU",
     "naslov_oglasa": "UREJANJE TABEL V EXCELU",
-    "kraj": "LJUBLJANA BEŽIGRAD",
+    "kraj": "LJUBLJANA",
     "placilo": 6.88,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -18932,7 +18822,7 @@
   {
     "vrsta_dela": "PREDAVANJE",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA - VIČ ALI OD DOMA",
+    "kraj": "LJUBLJANA",
     "placilo": 10.0,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -18962,7 +18852,7 @@
   {
     "vrsta_dela": "ZDRAVSTVENA NEGA",
     "naslov_oglasa": "OSEBNA ASISTENCA",
-    "kraj": "LJUBLJANA - ROŽNA DOLINA",
+    "kraj": "LJUBLJANA",
     "placilo": 7.1,
     "prosta_mesta": "Brez podatka",
     "trajanje": "PO DOGOVORU",
@@ -19022,7 +18912,7 @@
   {
     "vrsta_dela": "ČIŠČENJE",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "DOMŽALE Z OKOLICO",
+    "kraj": "DOMŽALE",
     "placilo": 7.0,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -19102,7 +18992,7 @@
   {
     "vrsta_dela": "STREŽBA",
     "naslov_oglasa": "DELO V KAVARNI",
-    "kraj": "DOMŽALE, VIR",
+    "kraj": "DOMŽALE",
     "placilo": 8.0,
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -19452,7 +19342,7 @@
   {
     "vrsta_dela": "POMOČ PRI OSKRBI STANOVALCEV",
     "naslov_oglasa": "OSEBNA ASISTENCA",
-    "kraj": "MURSKA SOBOTA IN OKOLICA",
+    "kraj": "MURSKA",
     "placilo": 6.58,
     "prosta_mesta": "3",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -19512,7 +19402,7 @@
   {
     "vrsta_dela": "DELO V KUHINJI",
     "naslov_oglasa": "PICOPEK",
-    "kraj": "STUDENEC, POSTOJNA",
+    "kraj": "STUDENEC",
     "placilo": 7.74,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -19572,7 +19462,7 @@
   {
     "vrsta_dela": "POMOČ V STREŽBI",
     "naslov_oglasa": "POMIVALEC",
-    "kraj": "LJUBLJANA RUDNIK",
+    "kraj": "LJUBLJANA",
     "placilo": 7.06,
     "prosta_mesta": "5",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -19582,7 +19472,7 @@
   {
     "vrsta_dela": "STREŽBA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA BEŽIGRAD",
+    "kraj": "LJUBLJANA",
     "placilo": 8.2,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -19592,7 +19482,7 @@
   {
     "vrsta_dela": "STREŽBA",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "KOKRICA, KRANJ",
+    "kraj": "KOKRICA",
     "placilo": 8.0,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -19642,7 +19532,7 @@
   {
     "vrsta_dela": "BLAGAJNIK",
     "naslov_oglasa": "DELO V TRGOVINI",
-    "kraj": "CELJE- NOVA VAS",
+    "kraj": "CELJE",
     "placilo": 6.88,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -19732,7 +19622,7 @@
   {
     "vrsta_dela": "POSPEŠEVANJE PRODAJE",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA BTC CITY",
+    "kraj": "LJUBLJANA",
     "placilo": 12.91,
     "prosta_mesta": "6",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -19742,7 +19632,7 @@
   {
     "vrsta_dela": "STREŽBA HRANE IN PIJAČE",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA CENTER",
+    "kraj": "LJUBLJANA",
     "placilo": 9.5,
     "prosta_mesta": "3",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -19802,7 +19692,7 @@
   {
     "vrsta_dela": "POMOČ V STREŽBI",
     "naslov_oglasa": "Brez naslova",
-    "kraj": "LJUBLJANA - BEŽIGRAD",
+    "kraj": "LJUBLJANA",
     "placilo": 6.7,
     "prosta_mesta": "Brez podatka",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
@@ -19817,6 +19707,116 @@
     "prosta_mesta": "2",
     "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
     "delovnik": "PO DOGOVORU",
+    "zacetek_dela": "Brez podatka"
+  },
+  {
+    "vrsta_dela": "STREŽBA",
+    "naslov_oglasa": "Brez naslova",
+    "kraj": "SEŽANA",
+    "placilo": 6.32,
+    "prosta_mesta": "2",
+    "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
+    "delovnik": "PO DOGOVORU",
+    "zacetek_dela": "Brez podatka"
+  },
+  {
+    "vrsta_dela": "STREŽBA HRANE IN PIJAČE",
+    "naslov_oglasa": "DELO V TURIZMU",
+    "kraj": "BLED",
+    "placilo": 9.0,
+    "prosta_mesta": "2",
+    "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
+    "delovnik": "DOPOLDAN",
+    "zacetek_dela": "Brez podatka"
+  },
+  {
+    "vrsta_dela": "STREŽBA",
+    "naslov_oglasa": "Brez naslova",
+    "kraj": "DRAMLJE",
+    "placilo": 8.8,
+    "prosta_mesta": "2",
+    "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
+    "delovnik": "PO DOGOVORU",
+    "zacetek_dela": "Brez podatka"
+  },
+  {
+    "vrsta_dela": "STREŽBA HRANE IN PIJAČE",
+    "naslov_oglasa": "Brez naslova",
+    "kraj": "KRANJSKA GORA",
+    "placilo": 10.9,
+    "prosta_mesta": "Brez podatka",
+    "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
+    "delovnik": "PO DOGOVORU",
+    "zacetek_dela": "Brez podatka"
+  },
+  {
+    "vrsta_dela": "STREŽBA HRANE IN PIJAČE",
+    "naslov_oglasa": "PRIPRAVA HRANE",
+    "kraj": "NOVO MESTO",
+    "placilo": 7.4,
+    "prosta_mesta": "6",
+    "trajanje": "PO DOGOVORU",
+    "delovnik": "PO DOGOVORU",
+    "zacetek_dela": "Brez podatka"
+  },
+  {
+    "vrsta_dela": "POMOČ V TRGOVINI",
+    "naslov_oglasa": "Brez naslova",
+    "kraj": "KRANJ",
+    "placilo": 8.15,
+    "prosta_mesta": "Brez podatka",
+    "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
+    "delovnik": "PO DOGOVORU",
+    "zacetek_dela": "Brez podatka"
+  },
+  {
+    "vrsta_dela": "STREŽBA",
+    "naslov_oglasa": "Brez naslova",
+    "kraj": "IVANČNA GORICA",
+    "placilo": 8.0,
+    "prosta_mesta": "Brez podatka",
+    "trajanje": "PO DOGOVORU",
+    "delovnik": "IZMENSKO",
+    "zacetek_dela": "Brez podatka"
+  },
+  {
+    "vrsta_dela": "BLAGAJNIK",
+    "naslov_oglasa": "POMOČ V TRGOVINI",
+    "kraj": "MORAVČE",
+    "placilo": 8.61,
+    "prosta_mesta": "Brez podatka",
+    "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
+    "delovnik": "IZMENSKO",
+    "zacetek_dela": "Brez podatka"
+  },
+  {
+    "vrsta_dela": "POMOČ V KUHINJI",
+    "naslov_oglasa": "Brez naslova",
+    "kraj": "TRBOVLJE",
+    "placilo": 6.32,
+    "prosta_mesta": "2",
+    "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
+    "delovnik": "PO DOGOVORU",
+    "zacetek_dela": "Brez podatka"
+  },
+  {
+    "vrsta_dela": "DELO NA RECEPCIJI",
+    "naslov_oglasa": "Brez naslova",
+    "kraj": "MORAVSKE TOPLICE",
+    "placilo": 8.61,
+    "prosta_mesta": "Brez podatka",
+    "trajanje": "PO DOGOVORU",
+    "delovnik": "MED VIKENDI",
+    "zacetek_dela": "Brez podatka"
+  },
+  {
+    "vrsta_dela": "STATIST",
+    "naslov_oglasa": "Brez naslova",
+    "kraj": "LJUBLJANA",
+    "placilo": 10.0,
+    "prosta_mesta": "10",
+    "trajanje": "DLJE ČASA (ZAČ. IN OBČ. DELO)",
+    "delovnik": "DOPOLDAN",
     "zacetek_dela": "Brez podatka"
   }
 ]

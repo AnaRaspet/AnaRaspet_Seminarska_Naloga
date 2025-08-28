@@ -27,6 +27,13 @@ try:
                 naslov_oglasa = "Brez naslova"
                 
             kraj = delo.find('svg', class_='ticon text-primary').parent.text.strip()
+            if "-" in kraj or "Z OKOLICO" in kraj or "IN OKOLICA" in kraj or "IN" in kraj or "," in kraj or "LJUBLJANA" in kraj or "(" in kraj or "/" in kraj:
+                kraj = kraj.split(" ")[0]
+                kraj = kraj.split("-")[0]
+                kraj = kraj.split(",")[0]
+                kraj = kraj.split("/")[0]
+            kraj = kraj.strip()
+
             placilo = delo.find('li', class_="job-payment").find('a').find('strong').text.strip()
             placilo = placilo.split(" ")[0] #pri placilu ohranimo le vrednost brez "€" in "h" za lazjo obdelavo kasneje
             placilo = placilo.replace(",", ".")
