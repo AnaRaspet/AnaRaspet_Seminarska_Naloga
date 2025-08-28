@@ -17,7 +17,7 @@ try:
         #najdemo vse oglase na strani
         dela = soup.find_all('article', class_='job-item')
 
-        #s for zanko iteriramo po vseh oglasih in iz vsakega oglasa izluščimo podatke ter jih shranimo v slovar<
+        #s for zanko iteriramo po vseh oglasih in iz vsakega oglasa izluščimo podatke ter jih shranimo v slovar
         for delo in dela: 
             naslovi = delo.findAll('h5', class_='mb-0')
             vrsta_dela = naslovi[0].text.strip()
@@ -28,6 +28,15 @@ try:
                 
             kraj = delo.find('svg', class_='ticon text-primary').parent.text.strip()
             placilo = delo.find('li', class_="job-payment").find('a').find('strong').text.strip()
+            placilo = placilo.split(" ")[0] #pri placilu ohranimo le vrednost brez "€" in "h" za lazjo obdelavo kasneje
+            placilo = placilo.replace(",", ".")
+
+            #placilo pretovrim v float ce je to mogoce, sicer pa preskocimo to oglas
+            try:
+                placilo = float(placilo)
+            except ValueError:
+                continue
+            
             
             atributi_ul = delo.find_all('ul', class_='job-attributes')[1]
             atributi = atributi_ul.find_all('li')
