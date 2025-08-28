@@ -48,7 +48,7 @@ try:
             atributi_ul = delo.find_all('ul', class_='job-attributes')[1]
             atributi = atributi_ul.find_all('li')
             count = 0
-            prosta_mesta, trajanje, delovnik, zacetek_dela = "Brez podatka", "Brez podatka", "Brez podatka", "Brez podatka"
+            prosta_mesta, trajanje, delovnik, zacetek_dela = "1", "Brez podatka", "Brez podatka", "Brez podatka"
             for li in atributi:
                 li_text = li.get_text(strip=True)
                 
