@@ -4,24 +4,7 @@ OPIS PROJEKTA
 
 Ta projekt vsebuje analizo podatkov o študentskih delih, zbranih s spletne strani Studentski servis. Projekt vključuje zbiranje podatkov, njihovo obdelavo in statistično analizo z vizualizacijami.
 
-STRUKTURA PROJEKTA
-
-AnaRaspet_Seminarska_Naloga/
-├── Analiza_Podatkov.ipynb     # Jupyter notebook z analizo podatkov
-├── podatki_dela.csv           # Podatki v CSV formatu
-├── podatki_dela.json          # Podatki v JSON formatu
-├── prenos_vsebine_strani.py   # Skripta za zbiranje podatkov s spletne strani
-├── urejanje_vsebine.py        # Skripta za obdelavo in čiščenje podatkov
-├── preberi_vsebino.py         # Skripta za branje podatkov
-├── vsebina/                   # Mapa s HTML datotekami
-│   ├── stran_1.html
-│   ├── stran_2.html
-│   └── ...
-├── venv/                      # Virtualno okolje Python
-└── readme.md                  # Ta datoteka
-
-FUNKCIONALNOSTI
-
+FUNKCIONALNOSTI:
 1. Zbiranje podatkov
 - prenos_vsebine_strani.py: Avtomatsko prenaša HTML vsebino s spletne strani Studentski servis
 - Zbira podatke o študentskih delih z različnih strani
