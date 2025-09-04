@@ -44,16 +44,27 @@ Projekt analizira naslednje podatke o študentskih delih:
 NAMESTITEV IN ZAGON
 
 Na svoj racunalnik si nalozi python verzije 3.7+
+
 Kloniraj ta repozitorij s pomočjo ukaza git clone https://github.com/AnaRaspet/AnaRaspet_Seminarska_Naloga ki ga lahko poženeš v terminalu
+
 premakni se v ta repozitorij z ukazom cd AnaRaspet_Seminarska_Naloga
+
 Ustvari virtualno okolje z ukazom python -m venv venv
+
 Zaženi virtualno okolje z ukazom source venv/bin/activate  #Na Windows: venv\Scripts\activate
+
 namesti potrebne knjižnice z ukazom  pip install requirements.txt
+
 Sedaj ima uporabnik na voljo več možnosti:
+
     - odprite Analiza_Podatkov.ipynb in poženite različne celice za različne analize
+
     - prenesite aktualne podatke iz interneta in jih uredite za analizo
+
             - z ukazom python prenos_vsebine_strani.py  prenestite vsebino strani in jo shranite v mapo vsebina
+
             - z ukazom python urejanje_vsebine.py to vsebino uredite in jo pretvorite v .json in .csv format
+
     # če na novo prenesete vsebino in jo uredite ter poženete celice v jupyter notebooku, opisi rezultatov morda nebodo skladni z vizualizaciji saj se nanašajo na trenutne podatke, podatki v času ko uporabnik ponovno pridobi podatke in jih uredi za analizo pa so drugačni
 
 
@@ -69,10 +80,13 @@ Projekt omogoča:
 
 
 AVTOR
+
 Ana Raspet
 
 LICENCA
+
 Ta projekt je ustvarjen za izobraževalne namene.
 
 KONTAKT
+
 Za vprašanja o projektu se obrnite na avtorja.
